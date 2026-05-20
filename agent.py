@@ -4,6 +4,7 @@ from typing import Any
 
 from config import Settings
 from conversation import get_history, add_message
+from knowledge_base import get_relevant_context
 from prompts import SYSTEM_PROMPT
 
 logger = logging.getLogger(__name__)
@@ -56,14 +57,23 @@ def _parse_response(raw: str) -> dict:
         }
 
 
+def _build_system_prompt(user_text: str) -> str:
+    """Append relevant KB sections to the base system prompt if found."""
+    kb_context = get_relevant_context(user_text)
+    if not kb_context:
+        return SYSTEM_PROMPT
+    return SYSTEM_PROMPT + f"\n\n## INFORMAÇÕES ADICIONAIS RELEVANTES\n{kb_context}"
+
+
 async def process_message(lead_id: str, user_text: str, s: Settings) -> dict:
     history = await get_history(lead_id)
     messages = history + [{"role": "user", "content": user_text}]
+    system = _build_system_prompt(user_text)
 
     raw_text: str
     if s.AI_PROVIDER == "openai":
         client = _get_openai(s)
-        full_messages = [{"role": "system", "content": SYSTEM_PROMPT}] + messages
+        full_messages = [{"role": "system", "content": system}] + messages
         resp = await client.chat.completions.create(
             model=s.OPENAI_MODEL,
             messages=full_messages,
@@ -76,7 +86,7 @@ async def process_message(lead_id: str, user_text: str, s: Settings) -> dict:
         client = _get_anthropic(s)
         resp = await client.messages.create(
             model=s.ANTHROPIC_MODEL,
-            system=SYSTEM_PROMPT,
+            system=system,
             messages=messages,
             max_tokens=600,
         )

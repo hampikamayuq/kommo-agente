@@ -14,12 +14,17 @@ class Settings(BaseSettings):
     ANTHROPIC_API_KEY: str = ""
     ANTHROPIC_MODEL: str = "claude-sonnet-4-6"
 
+    KOMMO_BOT_USER_ID: str = "11783975"
+
     WEBHOOK_SECRET: str = ""
     API_KEY: str = ""
 
     PORT: int = 8000
     MAX_HISTORY_TURNS: int = 20
     DB_PATH: str = "conversations.db"
+
+    HUMAN_TIMEOUT_HOURS: int = 4
+    BOT_TIMEOUT_MINUTES: int = 30
 
 
 settings = Settings()
