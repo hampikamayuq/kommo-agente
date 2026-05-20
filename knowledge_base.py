@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 _KB_PATH = Path(__file__).parent / "knowledge_base.md"
-_sections: list[tuple[str, str]] = []  # (header, body)
+_sections: list[tuple[str, str, set[str]]] = []  # (header, body, token_set)
 
 
 def _load() -> None:
@@ -21,7 +21,9 @@ def _load() -> None:
         header = lines[0].strip()
         body = "\n".join(lines[1:]).strip()
         if header and body:
-            _sections.append((header.lower(), f"**{header}**\n{body}"))
+            formatted_body = f"**{header}**\n{body}"
+            tokens = set(re.findall(r"\w+", f"{header} {body}".lower()))
+            _sections.append((header.lower(), formatted_body, tokens))
 
 
 _load()
@@ -37,9 +39,8 @@ def get_relevant_context(query: str, max_sections: int = 2) -> str | None:
         return None
 
     scored: list[tuple[int, str]] = []
-    for header, body in _sections:
-        section_words = set(re.findall(r"\w+", header + " " + body.lower()))
-        overlap = len(query_words & section_words)
+    for _, body, tokens in _sections:
+        overlap = len(query_words & tokens)
         if overlap > 0:
             scored.append((overlap, body))
 
