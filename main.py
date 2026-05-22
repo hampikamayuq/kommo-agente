@@ -111,8 +111,15 @@ async def _handle_new_message(data: dict) -> dict:
     if kommo.get("handoff_human"):
         tags = list(set(tags + ["atendimento-humano"]))
 
-    if tags:
-        await kommo_client.update_lead(lead_id, tags=tags)
+    stage_name = kommo.get("stage")
+    stage_id: int | None = None
+    if stage_name and settings.KOMMO_STAGE_MAP:
+        stage_id = settings.KOMMO_STAGE_MAP.get(stage_name)
+        if not stage_id:
+            logger.warning("Lead %s: AI requested stage '%s' but it is not in KOMMO_STAGE_MAP", lead_id, stage_name)
+
+    if tags or stage_id is not None:
+        await kommo_client.update_lead(lead_id, tags=tags or None, stage_id=stage_id)
 
     if kommo.get("task"):
         await kommo_client.create_task(lead_id, kommo["task"])
@@ -155,7 +162,7 @@ async def webhook(request: Request) -> JSONResponse:
         form = await request.form()
         data = dict(form)
 
-        if settings.WEBHOOK_SECRET and data.get("secret") != settings.WEBHOOK_SECRET:
+        if data.get("secret") != settings.WEBHOOK_SECRET:
             return JSONResponse({"status": "forbidden"}, status_code=403)
 
         # Route by event type (observer pattern)
@@ -188,7 +195,7 @@ async def send(
     body: SendRequest,
     x_api_key: Annotated[str | None, Header()] = None,
 ) -> dict:
-    if settings.API_KEY and x_api_key != settings.API_KEY:
+    if x_api_key != settings.API_KEY:
         raise HTTPException(status_code=401, detail="Invalid API key")
     await kommo_client.send_message(body.lead_id, body.message)
     return {"status": "ok", "lead_id": body.lead_id}
@@ -201,7 +208,7 @@ async def resume(
     lead_id: str,
     x_api_key: Annotated[str | None, Header()] = None,
 ) -> dict:
-    if settings.API_KEY and x_api_key != settings.API_KEY:
+    if x_api_key != settings.API_KEY:
         raise HTTPException(status_code=401, detail="Invalid API key")
     old_state = await get_lead_state(lead_id)
     await set_lead_state(lead_id, "active")
@@ -216,7 +223,7 @@ async def pause(
     lead_id: str,
     x_api_key: Annotated[str | None, Header()] = None,
 ) -> dict:
-    if settings.API_KEY and x_api_key != settings.API_KEY:
+    if x_api_key != settings.API_KEY:
         raise HTTPException(status_code=401, detail="Invalid API key")
     await set_lead_state(lead_id, "paused_human")
     logger.info("Lead %s manually paused", lead_id)

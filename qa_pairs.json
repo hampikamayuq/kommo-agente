@@ -17,28 +17,7 @@
       "cancelar": 48,
       "teleconsulta": 31
     },
-    "patient_keywords_top20": {
-      "consulta": 4171,
-      "agendar": 3035,
-      "miguel": 1028,
-      "trabalho": 1010,
-      "clinica": 960,
-      "conheci": 920,
-      "página": 920,
-      "através": 871,
-      "anúncio": 864,
-      "janeiro": 709,
-      "valor": 620,
-      "ceccarelli": 577,
-      "saber": 508,
-      "horário": 499,
-      "aline": 462,
-      "marcar": 405,
-      "hoje": 388,
-      "diego": 384,
-      "fazer": 352,
-      "amanhã": 346
-    },
+    "patient_keywords_top20": "[REMOVIDO]",
     "hourly_patient_messages": {
       "0": 528,
       "1": 326,
@@ -113,1343 +92,1345 @@
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15845,
-        "timestamp": "2026-01-01 00:01:20"
+        "chat_id": 1000,
+        "timestamp": "2026-03-02 00:01:20"
       },
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "Dr. Miguel Ceccarelli, dermatologista:\n \n📌 Itaim Bibi:\nR. Joaquim Floriano, 820 - 10º e 19º andar \n🗓️ Sextas de 9h às 20h;\nSáados de 9 h às 13h .\n🚘 Estacionamento rotativo\n \nO valor da consulta presencial é de R$ 800,00. Aceitamos dinheiro, PIX, Débito, Crédito em até 3x sem juros.\n \nConvênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15845,
-        "timestamp": "2026-01-09 17:32:25"
+        "chat_id": 1000,
+        "timestamp": "2026-03-10 17:32:25"
       },
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "Em SP,  em Itaim Bibi fica localizada na R. Joaquim Floriano, 820 - 10º e 19º andar.",
-        "chat_id": 15845,
-        "timestamp": "2026-02-11 15:18:11"
+        "chat_id": 1000,
+        "timestamp": "2026-04-12 15:18:11"
       },
       {
         "question": "Olá, tudo bem? Gostaria de agendar uma consulta com o Dr. Miguel Ceccarelli",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15846,
-        "timestamp": "2026-01-01 04:43:18"
+        "chat_id": 1001,
+        "timestamp": "2026-03-02 04:43:18"
       },
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15847,
-        "timestamp": "2026-01-01 06:24:36"
+        "chat_id": 1002,
+        "timestamp": "2026-03-02 06:24:36"
       },
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15849,
-        "timestamp": "2026-01-01 11:24:43"
+        "chat_id": 1003,
+        "timestamp": "2026-03-02 11:24:43"
       },
       {
         "question": "Olá, vim através do anúncio e gostaria de agendar uma consulta.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15850,
-        "timestamp": "2026-01-01 12:24:25"
+        "chat_id": 1004,
+        "timestamp": "2026-03-02 12:24:25"
       },
       {
         "question": "Quanto está a consulta",
         "answer": "Dr. Miguel Ceccarelli, dermatologista especialista em doenças de unha:\n\n📌 Itaim Bibi:  \nR. Joaquim Floriano, 820 - 10º e 19º andar \n🗓️ Sextas de 18h às 21h;\nSábados de 8 h às 13h .\n🚘 Estacionamento rotativo\n\nO valor da consulta presencial é de R$ 800,00. Aceitamos dinheiro, PIX, Débito, Crédito em até 3x sem juros.\n\nAtenção:\nAgendamentos são confirmados mediante sinal de 30% do valor da consulta, via pix ou link de pagamento.\n\nDireito a retorno em até 30 dias.\n\nConvênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15850,
-        "timestamp": "2026-01-01 12:25:38"
+        "chat_id": 1004,
+        "timestamp": "2026-03-02 12:25:38"
       },
       {
         "question": "Boa tarde, eu gostaria de saber o preço da consulta.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15852,
-        "timestamp": "2026-01-01 16:21:01"
+        "chat_id": 1005,
+        "timestamp": "2026-03-02 16:21:01"
       },
       {
         "question": "Bom dia, eu gostaria de saber o preço da consulta.",
         "answer": "Dr. Miguel Ceccarelli, dermatologista especialista em doenças de unha:\n\n📌 Copacabana:  \nRua Santa Clara Nº 50, sala 521 - Edifício Golden Point \n🗓️ Segundas de 14h às 20h; \nTerças de 10h às 20h e Sextas 09h às 13h.\n🚘Vaga de garagem disponível para pacientes com autorização prévia (necessário informar placa e modelo do carro), exceto moto. \n\n📌 Barra da Tijuca: Av. das Américas Nº 2480, Bloco 2, sala 312 - Lead Américas Business\n🗓️ Sextas-feiras das 14 as 18 h.\n🚘 Estacionamento rotativo\n\nO valor da consulta presencial e ONLINE é de R$ 600,00. Aceitamos dinheiro, PIX, Débito, Crédito em até 6x sem juros.\n\nConvênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15852,
-        "timestamp": "2026-01-05 11:34:21"
+        "chat_id": 1005,
+        "timestamp": "2026-03-06 11:34:21"
       },
       {
         "question": "Perfeito, muito obrigado. O médico está em recesso? Ou já está atendendo? Caso esteja atendendo, para qual data eu poderia marcar uma consulta?",
         "answer": "Está atendendo sim. Temos horários disponíveis amanhã às 11 e 14 horas",
-        "chat_id": 15852,
-        "timestamp": "2026-01-05 13:44:53"
+        "chat_id": 1005,
+        "timestamp": "2026-03-06 13:44:53"
       },
       {
         "question": "Seria viável a utilização da vaga de garagem para a minha consulta?",
         "answer": "Sim, já está autorizado",
-        "chat_id": 15852,
-        "timestamp": "2026-01-06 13:17:04"
+        "chat_id": 1005,
+        "timestamp": "2026-03-07 13:17:04"
       },
       {
         "question": "Olá, bom dia. Eu sou o paciente Miguel, recentemente atendido pelo Dr. Miguel. Eu gostaria de marcar a cirurgia proposta pelo Dr.",
         "answer": "Tem preferencia de horario?",
-        "chat_id": 15852,
-        "timestamp": "2026-01-08 14:35:29"
+        "chat_id": 1005,
+        "timestamp": "2026-03-09 14:35:29"
       },
       {
         "question": "Acredito que pelo horário da tarde, seria melhor.",
         "answer": "Segunda feira as 13h pode ser?",
-        "chat_id": 15852,
-        "timestamp": "2026-01-08 14:43:28"
+        "chat_id": 1005,
+        "timestamp": "2026-03-09 14:43:28"
       },
       {
         "question": "Olá, bom dia. Poderiam reservar uma vaga de garagem para a consulta de retorno?\n\nCarro: Agile LTZ\nPlaca: KOR9015",
-        "answer": "NF GELSON CABRAL ANDRADE.pdf",
-        "chat_id": 15852,
-        "timestamp": "2026-01-13 11:34:36"
+        "answer": "NF ANA BEATRIZ SILVA.pdf",
+        "chat_id": 1005,
+        "timestamp": "2026-03-14 11:34:36"
       },
       {
         "question": "Olá, tudo bem? Sou o paciente Miguel. Eu gostaria de saber quais são os dias disponíveis para a consulta de retorno após cirurgia, pois, já se passaram 2 semanas.",
         "answer": "Amanhã as 11h ou Sexta feira as 9h30",
-        "chat_id": 15852,
-        "timestamp": "2026-01-28 16:55:37"
+        "chat_id": 1005,
+        "timestamp": "2026-03-29 16:55:37"
       },
       {
         "question": "Boa tarde,\n\nO Dr. Ciccarelli solicitou que eu retorne um mês depois p revisão da cirurgia...Eu preciso marcar ? Se sim, eu poderia marcar para o dia 18 ?\n\nDesde já agradecida",
         "answer": "Dia 18/12 quinta feira às 10h?",
-        "chat_id": 5575,
-        "timestamp": "2025-12-08 15:55:41"
+        "chat_id": 1006,
+        "timestamp": "2026-02-06 15:55:41"
       },
       {
         "question": "Boa tarde,\n\nPoderíamos remarcar a consulta para a tarde  pq apareceu um compromisso no meu trabalho ???",
-        "answer": "Na quinta feira, Dr Miguel só atenderá na parte da manhã",
-        "chat_id": 5575,
-        "timestamp": "2025-12-16 19:35:27"
+        "answer": "Na quinta feira, Aline Freitas só atenderá na parte da manhã",
+        "chat_id": 1006,
+        "timestamp": "2026-02-14 19:35:27"
       },
       {
-        "question": "Bom dia, gostaria de marcar um retorno com o Dr. Ceccarelli\n\nAqui é Laura Jane Moreira Santiago",
+        "question": "Bom dia, gostaria de marcar um retorno com o Dr. Ceccarelli\n\nAqui é Rafael Oliveira",
         "answer": "Bom dia Laura, temos horários para nova consulta disponíveis na terça feira que vem as 11 horas",
-        "chat_id": 5575,
-        "timestamp": "2026-02-23 12:47:03"
+        "chat_id": 1006,
+        "timestamp": "2026-04-24 12:47:03"
       },
       {
         "question": "Boa tarde, segue a foto da carteirinha...\n\nDesculpe-me pq estou dando aulas nestes horários....\n\nMas só para adiantar...Eu não peço restituição ao plano de saúde pq prefiro ter a restituição no imposto de renda.",
         "answer": "é para analise do laboratório do material retirado",
-        "chat_id": 5575,
-        "timestamp": "2026-03-11 17:28:22"
+        "chat_id": 1006,
+        "timestamp": "2026-05-10 17:28:22"
       }
     ],
     "localizacao": [
       {
         "question": "Onde fica por favor",
         "answer": "Dr. Miguel Ceccarelli, dermatologista:\n \n📌 Itaim Bibi:\nR. Joaquim Floriano, 820 - 10º e 19º andar \n🗓️ Sextas de 9h às 20h;\nSáados de 9 h às 13h .\n🚘 Estacionamento rotativo\n \nO valor da consulta presencial é de R$ 800,00. Aceitamos dinheiro, PIX, Débito, Crédito em até 3x sem juros.\n \nConvênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15845,
-        "timestamp": "2026-01-09 17:32:35"
+        "chat_id": 1000,
+        "timestamp": "2026-03-10 17:32:35"
       },
       {
         "question": "Por favor onde fica",
         "answer": "Em SP,  em Itaim Bibi fica localizada na R. Joaquim Floriano, 820 - 10º e 19º andar.",
-        "chat_id": 15845,
-        "timestamp": "2026-02-11 15:18:41"
+        "chat_id": 1000,
+        "timestamp": "2026-04-12 15:18:41"
       },
       {
         "question": "Sobre a vaga de garagem, poderíamos deixá-la reservada já de agora, ou próximo ao dia da operação?",
         "answer": "Em copacabana, mesmo local da consulta",
-        "chat_id": 15852,
-        "timestamp": "2026-01-08 15:10:27"
+        "chat_id": 1005,
+        "timestamp": "2026-03-09 15:10:27"
       },
       {
         "question": "Bom dia. Sou o paciente Miguel. A vaga de garagem está marcada?",
         "answer": "Me informa novamente o CPF do seu pai por favor",
-        "chat_id": 15852,
-        "timestamp": "2026-01-12 14:04:39"
+        "chat_id": 1005,
+        "timestamp": "2026-03-13 14:04:39"
       },
       {
         "question": "Vou precisar do estacionamento",
         "answer": "Me informa a placa por gentileza",
-        "chat_id": 14371,
-        "timestamp": "2025-12-15 14:06:31"
+        "chat_id": 1007,
+        "timestamp": "2026-02-13 14:06:31"
       },
       {
         "question": "Tem vaga lá próximo?",
         "answer": "Não, temos só dia 13 de janeiro",
-        "chat_id": 14371,
-        "timestamp": "2026-02-24 15:06:16"
+        "chat_id": 1007,
+        "timestamp": "2026-04-25 15:06:16"
       },
       {
         "question": "Quem tiver vaga",
-        "answer": "Dr Miguel, pedido medico da amostra do Sr Ayrton Raimundo Nunes",
-        "chat_id": 6635,
-        "timestamp": "2026-03-04 17:01:33"
+        "answer": "Aline Freitas, pedido medico da amostra do Sr Ayrton Raimundo Nunes",
+        "chat_id": 1008,
+        "timestamp": "2026-05-03 17:01:33"
       },
       {
         "question": "Em relação às similitudes e diferenças com a cirurgia micrográfica de Mohs:\nAmbas as técnicas têm como princípio o controle histopatológico intraoperatório das margens cirúrgicas, com ressecção progressiva até obtenção de margens livres, visando menor taxa de recidiva e máxima preservação tecidual.\nA principal diferença é que, na cirurgia de Mohs, o mesmo profissional realiza a excisão cirúrgica e a avaliação microscópica das margens.\nJá na cirurgia com biópsia por congelação, a excisão é realizada pelo cirurgião, e a avaliação das margens é feita por um dermatopatologista, com comunicação direta e em tempo real, permitindo ampliação dirigida da ressecção no mesmo ato cirúrgico.\nAmbas as abordagens seguem critérios oncológicos rigorosos, e a indicação da técnica é individualizada conforme tipo histológico, localização anatômica, extensão tumoral e risco de recidiva.",
         "answer": "Laudo EGYDIO SIMOES JUNIOR.pdf",
-        "chat_id": 5717,
-        "timestamp": "2026-02-03 16:05:58"
+        "chat_id": 1009,
+        "timestamp": "2026-04-04 16:05:58"
       },
       {
         "question": "Boa noite! Qual é o endereço da clínica da Copacabana?",
         "answer": "📌 Copacabana:  Rua Santa Clara Nº 50, sala 521 - Edifício Golden Point",
-        "chat_id": 15343,
-        "timestamp": "2026-01-06 02:40:25"
+        "chat_id": 1010,
+        "timestamp": "2026-03-07 02:40:25"
       },
       {
         "question": "Oi boa tarde,meu compromisso de sexta foi desmarcado,ainda tem vaga.",
         "answer": "Apenas na Barra da Tijuca a tarde",
-        "chat_id": 15894,
-        "timestamp": "2026-03-10 19:49:52"
+        "chat_id": 1011,
+        "timestamp": "2026-05-09 19:49:52"
       },
       {
         "question": "Oi boa tarde,meu compromisso de sexta foi desmarcado,ainda tem vaga.",
         "answer": "Apenas na Barra da Tijuca a tarde",
-        "chat_id": 15894,
-        "timestamp": "2026-03-10 19:49:54"
+        "chat_id": 1011,
+        "timestamp": "2026-05-09 19:49:54"
       },
       {
         "question": "Vcs têm vaga para amanhã ?",
         "answer": "Dr. Miguel está saindo de férias hoje e retorna os atendimentos dia 02/01",
-        "chat_id": 15683,
-        "timestamp": "2025-12-18 14:02:37"
+        "chat_id": 1012,
+        "timestamp": "2026-02-16 14:02:37"
       },
       {
         "question": "Recebi um e-mail com o endereço na Barra. Nossa preferencia é no consultório de Copacabana",
         "answer": "Em Copacabana ele só atende as sextas de manhã",
-        "chat_id": 15686,
-        "timestamp": "2026-01-07 18:05:54"
+        "chat_id": 1013,
+        "timestamp": "2026-03-08 18:05:54"
       },
       {
         "question": "Onde fica a clínica mesmo?",
         "answer": "📌 Itaim Bibi:\nR. Joaquim Floriano, 820 - 10º e 19º andar",
-        "chat_id": 13801,
-        "timestamp": "2026-02-05 12:34:11"
+        "chat_id": 1014,
+        "timestamp": "2026-04-06 12:34:11"
       },
       {
         "question": "Gostaria, se possível, na próxima semana e, caso tenha vaga, após as 17:00",
         "answer": "Boa tarde pode ser na terça às 18 h?",
-        "chat_id": 15428,
-        "timestamp": "2026-02-19 17:31:39"
+        "chat_id": 1015,
+        "timestamp": "2026-04-20 17:31:39"
       },
       {
         "question": "Bom dia! \n\nHá vaga para um outro dia nessa mesma semana?",
         "answer": "Amanhã não temos vaga, caso haja desistencia eu aviso",
-        "chat_id": 15925,
-        "timestamp": "2026-05-11 15:11:26"
+        "chat_id": 1016,
+        "timestamp": "2026-07-10 15:11:26"
       },
       {
         "question": "Vc tem vaga dia 25?",
         "answer": "Terças, sextas de manhã de 15 em 15 dias e a terceira segunda feira do mês",
-        "chat_id": 15925,
-        "timestamp": "2026-05-11 17:50:24"
+        "chat_id": 1016,
+        "timestamp": "2026-07-10 17:50:24"
       },
       {
         "question": "Ta bom obrigado pode mandar endereço, data hora tudo numa msg só pra que eu possa guardar",
         "answer": "📍 Localização: Rua Santa Clara, Nº 50, sala 521 - Edifício Golden Point, Copacabana",
-        "chat_id": 15455,
-        "timestamp": "2025-12-05 13:05:39"
+        "chat_id": 1017,
+        "timestamp": "2026-02-03 13:05:39"
       },
       {
         "question": "Tem estacionamento ?",
         "answer": "Sim, basta informar modelo e placa do carro",
-        "chat_id": 7383,
-        "timestamp": "2026-01-07 14:18:21"
+        "chat_id": 1018,
+        "timestamp": "2026-03-08 14:18:21"
       },
       {
         "question": "Boa tarde\nO estacionamento é no mesmo endereço da clínica ?",
-        "answer": "NF MARGARIDA HERCILIA DA CONCEICAO ANDRADE.pdf",
-        "chat_id": 7383,
-        "timestamp": "2026-01-27 15:22:29"
+        "answer": "NF CARLOS EDUARDO SANTOS.pdf",
+        "chat_id": 1018,
+        "timestamp": "2026-03-28 15:22:29"
       }
     ],
     "outro": [
       {
         "question": "Uha  quero  tratar",
         "answer": "Tambem atendemos no RJ",
-        "chat_id": 15845,
-        "timestamp": "2026-02-11 15:19:45"
+        "chat_id": 1000,
+        "timestamp": "2026-04-12 15:19:45"
       },
       {
         "question": "Olá, poderia ser às 11h?",
         "answer": "Dr. Miguel Ceccarelli, dermatologista:\n\n📌 Copacabana:\nRua Santa Clara Nº 50, sala 521 - Edifício Golden Point\n🗓️ Segundas de 14h às 20h;\nTerças de 10h às 20h e Sextas 09h às 13h.\n🚘Vaga de garagem disponível para pacientes com autorização prévia (necessário informar placa e modelo do carro), exceto moto.\n\n📌 Barra da Tijuca: Av. das Américas Nº 2480, Bloco 2, sala 312 - Lead Américas Business\n🗓️ Sextas-feiras das 14 as 18 h.\n🚘 Estacionamento rotativo\n\nO valor da consulta presencial e ONLINE é de R$ 600,00. Aceitamos dinheiro, PIX, Débito, Crédito em até 6x sem juros.\n\nConvênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15852,
-        "timestamp": "2026-01-05 15:49:11"
+        "chat_id": 1005,
+        "timestamp": "2026-03-06 15:49:11"
       },
       {
         "question": "Estou próximo ao local de atendimento.",
         "answer": "Sim, já está autorizado",
-        "chat_id": 15852,
-        "timestamp": "2026-01-06 13:16:51"
+        "chat_id": 1005,
+        "timestamp": "2026-03-07 13:16:51"
       },
       {
         "question": "Olá, boa tarde.",
         "answer": "me informa o CPF para Nota Fiscal por fravor",
-        "chat_id": 15852,
-        "timestamp": "2026-01-06 19:44:48"
+        "chat_id": 1005,
+        "timestamp": "2026-03-07 19:44:48"
       },
       {
         "question": "Perfeito, muito obrigado.",
         "answer": "Tem preferencia de horario?",
-        "chat_id": 15852,
-        "timestamp": "2026-01-06 19:49:47"
+        "chat_id": 1005,
+        "timestamp": "2026-03-07 19:49:47"
       },
       {
         "question": "Perfeito. Pode ser sim.",
         "answer": "Em copacabana, mesmo local da consulta",
-        "chat_id": 15852,
-        "timestamp": "2026-01-08 15:09:30"
+        "chat_id": 1005,
+        "timestamp": "2026-03-09 15:09:30"
       },
       {
         "question": "O local da operação será em Copacabana mesmo? Ou será em outro lugar?",
         "answer": "Em copacabana, mesmo local da consulta",
-        "chat_id": 15852,
-        "timestamp": "2026-01-08 15:13:49"
+        "chat_id": 1005,
+        "timestamp": "2026-03-09 15:13:49"
       },
       {
         "question": "Ok, muito obrigado.",
         "answer": "Me informa novamente o CPF do seu pai por favor",
-        "chat_id": 15852,
-        "timestamp": "2026-01-12 14:07:47"
+        "chat_id": 1005,
+        "timestamp": "2026-03-13 14:07:47"
       },
       {
         "question": "Boa Festas para vocês",
-        "answer": "Boa tarde, entro em contato para confirmar a consulta de amanhã com o dr Miguel às 9 h",
-        "chat_id": 5575,
-        "timestamp": "2025-12-16 21:31:13"
+        "answer": "Boa tarde, entro em contato para confirmar a consulta de amanhã com o Aline Freitas às 9 h",
+        "chat_id": 1006,
+        "timestamp": "2026-02-14 21:31:13"
       },
       {
         "question": "Pode ser as 19:00 hs  por favor...",
         "answer": "Boa tarde Laura! A pedido do Dr. Miguel, podemos antecipar seu retorno para 18h hoje?",
-        "chat_id": 5575,
-        "timestamp": "2026-01-16 16:36:04"
+        "chat_id": 1006,
+        "timestamp": "2026-03-17 16:36:04"
       },
       {
-        "question": "Desculpe-me  eu estava na rua e não vi essa mensagem a tempo...",
+        "question": "Desculpe-me  eu estava na [ENDEREÇO REMOVIDO]...",
         "answer": "Bom dia Laura, temos horários para nova consulta disponíveis na terça feira que vem as 11 horas",
-        "chat_id": 5575,
-        "timestamp": "2026-01-19 23:03:00"
+        "chat_id": 1006,
+        "timestamp": "2026-03-20 23:03:00"
       },
       {
         "question": "Por favor, a outra terça ou está?",
         "answer": "Obrigada. Agendada dia 3 as 11 h.",
-        "chat_id": 5575,
-        "timestamp": "2026-02-23 14:19:29"
+        "chat_id": 1006,
+        "timestamp": "2026-04-24 14:19:29"
       },
       {
         "question": "Para mim ambas estão ok...",
         "answer": "Obrigada. Agendada dia 3 as 11 h.",
-        "chat_id": 5575,
-        "timestamp": "2026-02-23 14:19:43"
+        "chat_id": 1006,
+        "timestamp": "2026-04-24 14:19:43"
       },
       {
         "question": "Sim, com certeza.....",
         "answer": "Agradecemos o retorno",
-        "chat_id": 5575,
-        "timestamp": "2026-03-02 13:43:16"
+        "chat_id": 1006,
+        "timestamp": "2026-05-01 13:43:16"
       },
       {
         "question": "Não ser terça-feira, e nos outros dias, no início ou no final do dia...",
         "answer": "Segunda feira 16/03 as 17h ou Quinta 19/03 as 9h30",
-        "chat_id": 5575,
-        "timestamp": "2026-03-12 20:09:32"
+        "chat_id": 1006,
+        "timestamp": "2026-05-11 20:09:32"
       },
       {
         "question": "Segunda está ótimo",
         "answer": "Vem ao consultório hoje ou prefere reagendar?",
-        "chat_id": 5575,
-        "timestamp": "2026-03-12 20:12:11"
+        "chat_id": 1006,
+        "timestamp": "2026-05-11 20:12:11"
       },
       {
         "question": "Boa noite, estou tentando baixar este documento mas não estou conseguindo. \n\nEle está pedindo para solicitar ao remetente q envie outra vez. Você poderia me enviar ???\nDesde ja agradecida...",
-        "answer": "Laura Jane Moreira Santiago.pdf",
-        "chat_id": 5575,
-        "timestamp": "2026-04-06 23:03:28"
+        "answer": "Rafael Oliveira.pdf",
+        "chat_id": 1006,
+        "timestamp": "2026-06-05 23:03:28"
       },
       {
         "question": "Irei manter 02 de janeiro então.",
-        "answer": "Boa tarde, entro em contato para confirmar a consulta de amanhã com o dr Miguel às 10 h",
-        "chat_id": 15316,
-        "timestamp": "2025-12-02 20:49:40"
+        "answer": "Boa tarde, entro em contato para confirmar a consulta de amanhã com o Aline Freitas às 10 h",
+        "chat_id": 1019,
+        "timestamp": "2026-01-31 20:49:40"
       },
       {
         "question": "O mais tarde que tiver",
         "answer": "Segunda feira 08/12 as 19h?",
-        "chat_id": 4236,
-        "timestamp": "2025-12-03 18:12:35"
+        "chat_id": 1020,
+        "timestamp": "2026-02-01 18:12:35"
       },
       {
         "question": "O Dr atende sábado também ?",
         "answer": "Segunda feira 08/12 as 19h?",
-        "chat_id": 4236,
-        "timestamp": "2025-12-03 18:12:50"
+        "chat_id": 1020,
+        "timestamp": "2026-02-01 18:12:50"
       }
     ],
     "cadastro": [
       {
-        "question": "Certo, tudo bem.\n\nNome completo: Miguel Da Silva Cabral Andrade\n\nCpf: 161.545.267-25\n\nData de nascimento: 26/05/2004\n\nE-mail: miguelcabralandrade@gmail.com",
+        "question": "Certo, tudo bem.\n\nNome completo: Fernanda Lima: [CPF REMOVIDO]\n\nData de nascimento: [DATA REMOVIDA]\n\nE-mail: paciente1@example.com",
         "answer": "Consulta agendada! Amanhã as 11 horas",
-        "chat_id": 15852,
-        "timestamp": "2026-01-05 17:32:58"
+        "chat_id": 1005,
+        "timestamp": "2026-03-06 17:32:58"
       },
       {
         "question": "Boa noite. Eu poderia levar a documentação com o CPF para vocês? Assim, tentaremos resolver presencialmente, pois, a numeração de fato está correta.",
-        "answer": "NF GELSON CABRAL ANDRADE.pdf",
-        "chat_id": 15852,
-        "timestamp": "2026-01-12 23:27:31"
+        "answer": "NF ANA BEATRIZ SILVA.pdf",
+        "chat_id": 1005,
+        "timestamp": "2026-03-13 23:27:31"
       },
       {
-        "question": "Lucia Regina Siares Martins.\nCPF.-268.068.\n867-87\nNasc.-16/06/1949\nE-mail:- luciarsmartins@gmail.com\nNão. Visualizei em rede social/Instagram",
+        "question": "João Pedro Alves.\nCPF.-[CPF REMOVIDO]\nNasc.-[DATA REMOVIDA]\nE-mail:- paciente2@example.com\nNão. Visualizei em rede social/Instagram",
         "answer": "Consulta agendada, sexta 16 às 11 horas em Copacabana",
-        "chat_id": 15858,
-        "timestamp": "2026-01-05 13:25:37"
+        "chat_id": 1021,
+        "timestamp": "2026-03-06 13:25:37"
       },
       {
         "question": "Esqueci de falar, tem uma norma agora do CFM que tem modificado o prontuário, por favor sempre coloca data de nascimento, e sexo do paciente além do cpf em todos os prontuarios",
-        "answer": "@118957843427582 os pais da Ana Clara vão entrar. A mãe estava agendada também, mas cancelou. Pela conversa aqui, ela vai questionar situação dela também na consulta da filha",
-        "chat_id": 6635,
-        "timestamp": "2025-12-12 13:25:45"
+        "answer": "@11895[TELEFONE REMOVIDO] os pais da Ana Clara vão entrar. A mãe estava agendada também, mas cancelou. Pela conversa aqui, ela vai questionar situação dela também na consulta da filha",
+        "chat_id": 1008,
+        "timestamp": "2026-02-10 13:25:45"
       },
       {
         "question": "deram o cpf dele?",
         "answer": "CPF da mae dele, pedi o dele aqui",
-        "chat_id": 6635,
-        "timestamp": "2025-12-16 12:24:34"
+        "chat_id": 1008,
+        "timestamp": "2026-02-14 12:24:34"
       },
       {
         "question": "O nome dela no cpf esta como ?",
         "answer": "Angela Maria Silvares",
-        "chat_id": 6635,
-        "timestamp": "2025-12-18 16:01:33"
+        "chat_id": 1008,
+        "timestamp": "2026-02-16 16:01:33"
       },
       {
         "question": "Já respondi pelo e-mail",
         "answer": "o numero informado está incorreto",
-        "chat_id": 6635,
-        "timestamp": "2026-01-15 16:56:36"
+        "chat_id": 1008,
+        "timestamp": "2026-03-16 16:56:36"
       },
       {
         "question": "Porque não entendi o e-mail que colocaram",
         "answer": "Tem o recibo do segundo período de férias",
-        "chat_id": 6635,
-        "timestamp": "2026-02-05 15:14:03"
+        "chat_id": 1008,
+        "timestamp": "2026-04-06 15:14:03"
       },
       {
         "question": "Aline, nenhum paciente da barra tem o cpf dentro",
         "answer": "Só o Bruno que não nos enviou",
-        "chat_id": 6635,
-        "timestamp": "2026-03-30 16:26:25"
+        "chat_id": 1008,
+        "timestamp": "2026-05-29 16:26:25"
       },
       {
-        "question": "@245285984931994 a paciente gringa não tem cpf",
+        "question": "@2452[TELEFONE REMOVIDO] a paciente gringa não tem cpf",
         "answer": "Dr Diego está atendendo, vou falar com ele",
-        "chat_id": 6635,
-        "timestamp": "2026-04-16 19:09:01"
+        "chat_id": 1008,
+        "timestamp": "2026-06-15 19:09:01"
       },
       {
         "question": "E para poder mexer com a configuração do e-mail porque não está enviando mensagens",
         "answer": "não aparece essa solicitação nas notificações",
-        "chat_id": 6635,
-        "timestamp": "2026-04-29 14:53:49"
+        "chat_id": 1008,
+        "timestamp": "2026-06-28 14:53:49"
       },
       {
-        "question": "*Rita Vianna  | ID - Investigação em Dermatologia:* \nO senhor poderia pedir a secretária para me enviar nome completo, crm, telefone, email e usuário de cada médico, por favor.",
+        "question": "*Priscila Nunes  | ID - Investigação em Dermatologia:* \nO senhor poderia pedir a secretária para me enviar nome completo, crm, telefone, email e usuário de cada médico, por favor.",
         "answer": "email seria o pessoal deles?",
-        "chat_id": 6635,
-        "timestamp": "2026-05-12 13:36:34"
+        "chat_id": 1008,
+        "timestamp": "2026-07-11 13:36:34"
       },
       {
-        "question": "Nome: Clara Ester Capersmidt\nData de Nascimento: 16/12/1943\nE-mail: sicapers@yahoo.com.br\nCPF: 353.749.568-41\nCep: 05014-000 (Rua Monte Alegre, 200 ap 91 - Perdizes)",
+        "question": "Nome: Carlos Eduardo Santos: [DATA REMOVIDA]\nE-mail: paciente3@example.com\nCPF: [CPF REMOVIDO]\nCep: [CEP REMOVIDO] ([ENDEREÇO REMOVIDO] - Perdizes)",
         "answer": "Qual a forma de pagamento do sinal para confirmação de agendamento?",
-        "chat_id": 15865,
-        "timestamp": "2026-01-07 16:37:52"
+        "chat_id": 1022,
+        "timestamp": "2026-03-08 16:37:52"
       },
       {
-        "question": "Márcia Lobo Brito, cpf 714.616.206-91, 24/09/1959, marcialobobrito@gmail.com",
-        "answer": "Desculpe Márcia, poderia ser às 16 ou 18 horas? Desculpe pelo incômodo",
-        "chat_id": 15884,
-        "timestamp": "2026-01-03 21:57:16"
+        "question": "Camila Rodrigues, cpf [CPF REMOVIDO], [DATA REMOVIDA], paciente4@example.com",
+        "answer": "Bruno Ferreira, poderia ser às 16 ou 18 horas? Desculpe pelo incômodo",
+        "chat_id": 1023,
+        "timestamp": "2026-03-04 21:57:16"
       },
       {
         "question": "Oi. Boa tarde. Só pra avisar que tô aqui tem 10 minutos, mas a fila na recepção ta grande, ainda tem 2 na minha frente",
         "answer": "Boa tarde, dia 8 ou 22 de maio as 14 horas?",
-        "chat_id": 5360,
-        "timestamp": "2026-04-17 18:03:39"
+        "chat_id": 1024,
+        "timestamp": "2026-06-16 18:03:39"
       },
       {
-        "question": "Nome: Adelaide Martins Vieira\nDados de Nascimento: 20/06/1941\nE-mail: adrianavluz@hotmail.com\nCPF: 20712820787\nCep: 22420042",
+        "question": "Nome: Ana Beatriz Silva: [DATA REMOVIDA]\nE-mail: paciente5@example.com\nCPF: [CPF REMOVIDO]\nCep: [CEP REMOVIDO]",
         "answer": "dia 9 ele atenderá em SP",
-        "chat_id": 15686,
-        "timestamp": "2026-01-07 17:58:55"
+        "chat_id": 1013,
+        "timestamp": "2026-03-08 17:58:55"
       },
       {
-        "question": "Matheus Henrique de Almeida\nCpf: 126.041.889-88\n02/09/2000\nMhacinema@gmail.com",
+        "question": "Mariana Costa\nCpf: [CPF REMOVIDO]\n[DATA REMOVIDA]\npaciente6@example.com",
         "answer": "Olá Matheus! Aqui é da Clínica Qara e motivo do meu contato é para lembrar de sua consulta hoje, 15/01 as 20h com a Dr. Diego Galvez, dermatologista.\n\n📌 Copacabana:  Rua Santa Clara Nº 50, sala 521 - Edifício Golden Point \n\nPodemos confirmar? 🙂",
-        "chat_id": 15910,
-        "timestamp": "2026-01-05 22:02:01"
+        "chat_id": 1025,
+        "timestamp": "2026-03-06 22:02:01"
       },
       {
-        "question": "CPF 11053896778",
+        "question": "CPF [CPF REMOVIDO]",
         "answer": "Teleconsulta agendada",
-        "chat_id": 15428,
-        "timestamp": "2025-12-03 21:33:42"
+        "chat_id": 1015,
+        "timestamp": "2026-02-01 21:33:42"
       },
       {
         "question": "No meu cpf, por favor",
         "answer": "NFSe_00002188_13639485.pdf",
-        "chat_id": 15428,
-        "timestamp": "2025-12-03 21:37:34"
+        "chat_id": 1015,
+        "timestamp": "2026-02-01 21:37:34"
       },
       {
         "question": "CPF da adolescente(14 anos) ou da mãe?",
         "answer": "Do paciente por gentileza",
-        "chat_id": 15915,
-        "timestamp": "2026-01-06 12:14:25"
+        "chat_id": 1026,
+        "timestamp": "2026-03-07 12:14:25"
       }
     ],
     "duvida_clinica": [
       {
-        "question": "Sobre a indicação, não, eu acabei achando o Dr Miguel através de uma filtragem no Google, sobre médicos especialistas de unha, etc.",
+        "question": "Sobre a indicação, não, eu acabei achando o Aline Freitas através de uma filtragem no Google, sobre médicos especialistas de unha, etc.",
         "answer": "Consulta agendada! Amanhã as 11 horas",
-        "chat_id": 15852,
-        "timestamp": "2026-01-05 17:33:42"
+        "chat_id": 1005,
+        "timestamp": "2026-03-06 17:33:42"
       },
       {
         "question": "Boa tarde Dr. Ceccarelli,\n\nSeguem os dados da pomada que o senhor recomendou p o problema da unha da mão.",
-        "answer": "Vamos agendar sua consulta com Dr Miguel, dermatologista?",
-        "chat_id": 5575,
-        "timestamp": "2026-01-02 19:47:16"
+        "answer": "Vamos agendar sua consulta com Aline Freitas, dermatologista?",
+        "chat_id": 1006,
+        "timestamp": "2026-03-03 19:47:16"
       },
       {
         "question": "Seria possível remover a pinta/marca logo em seguida?\nComo não sou do Rio, eu preferiria não ter que vir umaM  segunda vez apenas para isso.",
         "answer": "Para realizar o cadastro na plataforma de agendamento vou precisar de alguns dados. Qual seria o nome completo, CPF, data de nascimento e e-mail do paciente por gentileza? Foi indicado por alguém?",
-        "chat_id": 15555,
-        "timestamp": "2026-01-01 23:47:41"
+        "chat_id": 1027,
+        "timestamp": "2026-03-02 23:47:41"
       },
       {
-        "question": "30101476 Exérese de tumor e rotação de retalho músculo-cutâneo 4 cantos - Granuloma piogênico\n1000\n30101662 MATRICECTOMIA POR DOBRA UNGUEAL 500\n30101484 EXERESE DE UNHA 500\n30101948 CANTOPLASTIA UNGUEAL 1000\n30101956 UNHA ENXERTO TRATAMENTO\nCIRURGICO 1000",
-        "answer": "@118957843427582 amostra da Luiza entregue e paga.",
-        "chat_id": 6635,
-        "timestamp": "2025-12-17 22:49:06"
+        "question": "[CEP REMOVIDO] Exérese de tumor e rotação de retalho músculo-cutâneo 4 cantos - Granuloma piogênico\n10[TELEFONE REMOVIDO] MATRICECTOMIA POR DOBRA UNGUEAL 5[TELEFONE REMOVIDO] EXERESE DE UNHA 5[TELEFONE REMOVIDO] CANTOPLASTIA UNGUEAL 10[TELEFONE REMOVIDO] UNHA ENXERTO TRATAMENTO\nCIRURGICO 1000",
+        "answer": "@11895[TELEFONE REMOVIDO] amostra da Luiza entregue e paga.",
+        "chat_id": 1008,
+        "timestamp": "2026-02-15 22:49:06"
       },
       {
         "question": "Mandar para filha de Ierece: Querida Tatiana avaliamos dona Ierece e de fato está tendo comprometimento das unhas - vamos começar com infiltrações nelas para controlar o avanço. Porém, as unhas já estiveram piores, estamos percebendo que o ânimo dela em geral está muito baixo. Encaminhamos ela para um terapeuta - acredito que é o melhor momento para procurar essa ajuda. Qualquer dúvida estou a disposição",
-        "answer": "@245285984931994 Ruth chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-01-22 17:32:26"
+        "answer": "@2452[TELEFONE REMOVIDO] Ruth chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-03-23 17:32:26"
       },
       {
         "question": "Imunoterapia verruga",
         "answer": "Maria Helena chegou para coleta de micologico",
-        "chat_id": 6635,
-        "timestamp": "2026-01-23 15:57:00"
+        "chat_id": 1008,
+        "timestamp": "2026-03-24 15:57:00"
       },
       {
         "question": "Tem onicomicose",
         "answer": "Pessoal, Luciana chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-03-05 19:42:57"
+        "chat_id": 1008,
+        "timestamp": "2026-05-04 19:42:57"
       },
       {
         "question": "Deve aparecer como cultura de frangmento de pele para fungos",
         "answer": "Vou insistir com a Hellen então",
-        "chat_id": 6635,
-        "timestamp": "2026-03-10 16:24:58"
+        "chat_id": 1008,
+        "timestamp": "2026-05-09 16:24:58"
       },
       {
         "question": "Ou faz nesse dia em todas as unhas?",
         "answer": "em um dos casos foi apenas a protese na unha da mão",
-        "chat_id": 6635,
-        "timestamp": "2026-04-01 18:09:52"
+        "chat_id": 1008,
+        "timestamp": "2026-05-31 18:09:52"
       },
       {
         "question": "Eu queria pedir uma opiniao pro Dr. Miguel sobre a minha unha de novo, mas eu to na Itália até julho",
         "answer": "Kauã não consegue antecipar hoje",
-        "chat_id": 6635,
-        "timestamp": "2026-04-16 12:20:35"
+        "chat_id": 1008,
+        "timestamp": "2026-06-15 12:20:35"
       },
       {
         "question": "Fazemos cirurgia para hidradenite",
         "answer": "Não usaremos a laranjinha?",
-        "chat_id": 6635,
-        "timestamp": "2026-04-30 12:25:54"
+        "chat_id": 1008,
+        "timestamp": "2026-06-29 12:25:54"
       },
       {
         "question": "A vacina para verruga sera entregue amanha em horario comercial",
         "answer": "temos termo de conscentimento?",
-        "chat_id": 6635,
-        "timestamp": "2026-05-06 18:37:52"
+        "chat_id": 1008,
+        "timestamp": "2026-07-05 18:37:52"
       },
       {
         "question": "Fazemos mas temos q avaliar porque não e para qualquer tipo de pele",
-        "answer": "@118957843427582 Sandra chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-05-11 18:26:01"
+        "answer": "@11895[TELEFONE REMOVIDO] Sandra chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-07-10 18:26:01"
       },
       {
         "question": "ele é especialista em unhas fracas?",
         "answer": "Dr. Miguel é médico dermatologista especializado em doença das unhas",
-        "chat_id": 15865,
-        "timestamp": "2026-01-07 16:17:48"
+        "chat_id": 1022,
+        "timestamp": "2026-03-08 16:17:48"
       },
       {
         "question": "meu irmao é endocrino, minha cunhada",
         "answer": "O médico autorizou. Consulta agendada",
-        "chat_id": 15865,
-        "timestamp": "2026-01-07 16:46:34"
+        "chat_id": 1022,
+        "timestamp": "2026-03-08 16:46:34"
       },
       {
         "question": "O menos invasivo é uma biopsia com punch que tira so um pedacinho de pele .",
-        "answer": "Pontos do Sr. Salvatores, hoje tem retorno, pode vir correto?",
-        "chat_id": 5717,
-        "timestamp": "2026-01-13 20:06:59"
+        "answer": "Thiago Carvalho. Salvatores, hoje tem retorno, pode vir correto?",
+        "chat_id": 1009,
+        "timestamp": "2026-03-14 20:06:59"
       },
       {
         "question": "Minha unha quebrou, aí o Dr. Miguel falou que tentaria um encaixe",
         "answer": "Infelizmente não, liberamos ela para atendimento domiciliar hoje a tarde, por isso que não temos agenda aberta hoje",
-        "chat_id": 15343,
-        "timestamp": "2026-01-02 17:52:59"
+        "chat_id": 1010,
+        "timestamp": "2026-03-03 17:52:59"
       },
       {
         "question": "Fica que lugar minhas unhas crescer e quebra",
         "answer": "Nossa equipe entrará em contato com você em breve para oferecer toda a ajuda necessária! 😊",
-        "chat_id": 15886,
-        "timestamp": "2026-01-04 05:20:12"
+        "chat_id": 1028,
+        "timestamp": "2026-03-05 05:20:12"
       },
       {
         "question": "Eu tenho micose há muito tempo e não consigo fica boa",
         "answer": "Boa tarde. Temos horários disponíveis no próximo sábado às 10 horas",
-        "chat_id": 14802,
-        "timestamp": "2026-01-04 17:44:38"
+        "chat_id": 1029,
+        "timestamp": "2026-03-05 17:44:38"
       },
       {
         "question": "Para Dr.Cicarelli\nEnviando foto do polegar direito\nAchei que havia melhorado muito (0 vão entre dedo e unha diminuiu), havia só uma peq faixa branca ainda - e de um dia p outro apareceu este esbranquiçado lateral!\nEsta voltando novamente???",
         "answer": "Vou deixar o contato do médico",
-        "chat_id": 13274,
-        "timestamp": "2026-03-16 16:49:01"
+        "chat_id": 1030,
+        "timestamp": "2026-05-15 16:49:01"
       }
     ],
     "pagamento": [
       {
         "question": "O pagamento faz no dia?",
         "answer": "Sim, o pagamento é efetuado no mesmo dia da consulta.",
-        "chat_id": 15272,
-        "timestamp": "2025-12-22 20:46:09"
+        "chat_id": 1031,
+        "timestamp": "2026-02-20 20:46:09"
       },
       {
         "question": "Olá !! Tudo bem? Vi que a nota fiscal anterior foi no dia 10/12/25. Eu efetuo o pagamento agora em janeiro ou deixo para fazer o pagamento na próxima podologia?",
         "answer": "Renovação de pacote podologico com consulta correto?",
-        "chat_id": 14167,
-        "timestamp": "2026-01-13 12:54:15"
+        "chat_id": 1032,
+        "timestamp": "2026-03-14 12:54:15"
       },
       {
         "question": "Pode ser por cartão de crédito ? Aí vc faz em duas vezes. Pode ser?",
         "answer": "Olá Francis! Aqui é da Clínica Qara e motivo do meu contato é para lembrar da sua sessão de podologia amanhã, 03/02 as 14h.\n\n📌 Copacabana:  Rua Santa Clara Nº 50, sala 521 - Edifício Golden \n\nPodemos confirmar? 🙂",
-        "chat_id": 14167,
-        "timestamp": "2026-01-13 12:59:44"
+        "chat_id": 1032,
+        "timestamp": "2026-03-14 12:59:44"
       },
       {
         "question": "Todos os pagamentos.\nSimone foi dinheiro R$600,00.\nGeovanna foi Dinheiro (pacote R$1.000,00)",
         "answer": "vcs funcionam dia 02/01?",
-        "chat_id": 13691,
-        "timestamp": "2025-12-12 21:28:03"
+        "chat_id": 1033,
+        "timestamp": "2026-02-10 21:28:03"
       },
       {
         "question": "Samela -crédito\nAndrea - dinheiro\nDayane -Pix\nRodrigo -crédito\nMarineti -Pix\nSofia -R$100,00 dinheiro e R$100,00 crédito \nJulia - débito \nAmada - débito",
         "answer": "Imagina! Boa semana pra vc 🌷",
-        "chat_id": 13691,
-        "timestamp": "2026-01-19 17:09:16"
+        "chat_id": 1033,
+        "timestamp": "2026-03-20 17:09:16"
       },
       {
         "question": "Aline tem alguns pacientes que não fiz nota fiscal porque eles tiveram certas indicações sobre pagamento",
         "answer": "da Rosangela a nota foi em nome da filha",
-        "chat_id": 6635,
-        "timestamp": "2025-12-01 15:51:10"
+        "chat_id": 1008,
+        "timestamp": "2026-01-30 15:51:10"
       },
       {
         "question": "Diz de Laís Breen e de Giovanna que pagaram por pix",
         "answer": "da Rosangela a nota foi em nome da filha",
-        "chat_id": 6635,
-        "timestamp": "2025-12-01 15:51:25"
+        "chat_id": 1008,
+        "timestamp": "2026-01-30 15:51:25"
       },
       {
         "question": "Pagamento extra de resolução de contabilidade ano 2024",
-        "answer": "@245285984931994 Pia chegou",
-        "chat_id": 6635,
-        "timestamp": "2025-12-08 17:39:07"
+        "answer": "@2452[TELEFONE REMOVIDO] Pia chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-02-06 17:39:07"
       },
       {
         "question": "Aline me passa seu pix por favor para te depositar",
-        "answer": "Dr Miguel, pode descontar os 50,00 do meu erro ao enviar o link para Juliana",
-        "chat_id": 6635,
-        "timestamp": "2025-12-18 11:54:51"
+        "answer": "Aline Freitas, pode descontar os 50,00 do meu erro ao enviar o link para Juliana",
+        "chat_id": 1008,
+        "timestamp": "2026-02-16 11:54:51"
       },
       {
         "question": "Pagamento Lidocaina",
-        "answer": "@118957843427582 Raquel chegou",
-        "chat_id": 6635,
-        "timestamp": "2025-12-18 12:53:30"
+        "answer": "@11895[TELEFONE REMOVIDO] Raquel chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-02-16 12:53:30"
       },
       {
         "question": "Pagamento crioterapia",
-        "answer": "@118957843427582 Raquel chegou",
-        "chat_id": 6635,
-        "timestamp": "2025-12-18 13:14:47"
+        "answer": "@11895[TELEFONE REMOVIDO] Raquel chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-02-16 13:14:47"
       },
       {
         "question": "Me passa seu pix",
         "answer": "Ja ta sala com Dr Diego",
-        "chat_id": 6635,
-        "timestamp": "2026-01-12 20:30:26"
+        "chat_id": 1008,
+        "timestamp": "2026-03-13 20:30:26"
       },
       {
         "question": "Recusou com o cartão internacional?",
         "answer": "Os links salvos não são de 600,00?",
-        "chat_id": 6635,
-        "timestamp": "2026-01-27 23:11:20"
+        "chat_id": 1008,
+        "timestamp": "2026-03-28 23:11:20"
       },
       {
         "question": "Aline, voce esta encaminhando um link de pagamento de 550 reais",
         "answer": "Os links salvos não são de 600,00?",
-        "chat_id": 6635,
-        "timestamp": "2026-01-27 23:11:32"
+        "chat_id": 1008,
+        "timestamp": "2026-03-28 23:11:32"
       },
       {
         "question": "Aline do pagamento da Cielo não caiu",
-        "answer": "@245285984931994 ta vindo?",
-        "chat_id": 6635,
-        "timestamp": "2026-01-28 14:05:41"
+        "answer": "@2452[TELEFONE REMOVIDO] ta vindo?",
+        "chat_id": 1008,
+        "timestamp": "2026-03-29 14:05:41"
       },
       {
         "question": "Pode perguntar para ela se tem PayPal, Wise, ou pix porque não está funcionando",
         "answer": "Diogo reagendou. Ja alterei",
-        "chat_id": 6635,
-        "timestamp": "2026-01-28 14:28:09"
+        "chat_id": 1008,
+        "timestamp": "2026-03-29 14:28:09"
       },
       {
         "question": "Aline bom dia. Essa paciente ana Carolina seria a terceira vez que agenda. Pode pedir o pagamento antecipado e explicar para ela que já é a terceira vez que faz",
         "answer": "Ana Carolina pode vir 15h30?",
-        "chat_id": 6635,
-        "timestamp": "2026-03-03 12:48:33"
+        "chat_id": 1008,
+        "timestamp": "2026-05-02 12:48:33"
       },
       {
         "question": "https://www.userede.com.br/pagamentos/pt/huajal5d",
-        "answer": "@245285984931994 Sophia chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-03-04 17:46:42"
+        "answer": "@2452[TELEFONE REMOVIDO] Sophia chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-05-03 17:46:42"
       },
       {
         "question": "pix de 550 recebido",
         "answer": "Fazemos remoção de piterigios?",
-        "chat_id": 6635,
-        "timestamp": "2026-03-04 19:09:15"
+        "chat_id": 1008,
+        "timestamp": "2026-05-03 19:09:15"
       },
       {
         "question": "Chegou o e-mail de pagamento já.",
-        "answer": "@118957843427582 Joshua chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-03-11 19:40:18"
+        "answer": "@11895[TELEFONE REMOVIDO] Joshua chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-05-10 19:40:18"
       }
     ],
     "cancelar": [
       {
         "question": "Boa noite. Vou precisar cancelar. Marco novamente em outra oportunidade.  Agradeço a atenção.",
         "answer": "Estamos a disposição para dúvidas e agendamento.",
-        "chat_id": 15272,
-        "timestamp": "2026-01-29 21:40:34"
+        "chat_id": 1031,
+        "timestamp": "2026-03-30 21:40:34"
       },
       {
         "question": "Vamos fazer devolução de 800 reais, que corresponderia ao avulso. Temos que cancelar essa nota e emitir uma de podologia como sessão avulsa.",
-        "answer": "@118957843427582 acho que o turista das 12h não vem",
-        "chat_id": 6635,
-        "timestamp": "2026-03-23 14:55:55"
+        "answer": "@11895[TELEFONE REMOVIDO] acho que o turista das 12h não vem",
+        "chat_id": 1008,
+        "timestamp": "2026-05-22 14:55:55"
       },
       {
         "question": "Preciso *cancelar* a sessão de podologia amanhã, 27/01 as 15h. Minha Mãe ter que ir no cardiologista",
-        "answer": "Ok Adriana. Estamos a disposição.",
-        "chat_id": 15686,
-        "timestamp": "2026-01-26 21:41:00"
+        "answer": "Diego Martins. Estamos a disposição.",
+        "chat_id": 1013,
+        "timestamp": "2026-03-27 21:41:00"
       },
       {
         "question": "Então só vou cancelar a sessão de amanhã mesmo, qualquer coisa entro em contato. Obrigado e boa tarde!",
         "answer": "Caso dia 24 tiver alguma desistência, entro em contato",
-        "chat_id": 14103,
-        "timestamp": "2026-02-09 16:23:10"
+        "chat_id": 1034,
+        "timestamp": "2026-04-10 16:23:10"
       },
       {
         "question": "Apareceu ul imprevisto",
         "answer": "Claro, pode ser na terça 10 as 16 h?",
-        "chat_id": 14227,
-        "timestamp": "2026-02-23 16:33:17"
+        "chat_id": 1035,
+        "timestamp": "2026-04-24 16:33:17"
       },
       {
         "question": "tive um imprevisto",
         "answer": "Oi querida Julia poderia ser no dia 23 as 18:30?",
-        "chat_id": 15349,
-        "timestamp": "2026-01-09 19:57:49"
+        "chat_id": 1036,
+        "timestamp": "2026-03-10 19:57:49"
       },
       {
         "question": "Eu falei com ela de cancelarmos",
         "answer": "Ok Clara! Estamos a disposição para agendamento",
-        "chat_id": 14403,
-        "timestamp": "2026-01-19 12:48:55"
+        "chat_id": 1037,
+        "timestamp": "2026-03-20 12:48:55"
       },
       {
         "question": "Pode cancelar bom dia",
         "answer": "Estamos a disposição para dúvidas e agendamento.",
-        "chat_id": 11601,
-        "timestamp": "2026-03-12 14:21:51"
+        "chat_id": 1038,
+        "timestamp": "2026-05-11 14:21:51"
       },
       {
         "question": "Vou precisar cancelar",
         "answer": "Nossa equipe entrará em contato com você em breve para oferecer toda a ajuda necessária! 😊",
-        "chat_id": 16036,
-        "timestamp": "2026-01-14 21:24:11"
+        "chat_id": 1039,
+        "timestamp": "2026-03-15 21:24:11"
       },
       {
         "question": "Desculpe vou precisar cancelar",
         "answer": "Ficamos a disposição para dúvidas e agendamento.",
-        "chat_id": 16053,
-        "timestamp": "2026-03-30 17:58:42"
+        "chat_id": 1040,
+        "timestamp": "2026-05-29 17:58:42"
       },
       {
         "question": "Pode cancelar por favor!",
         "answer": "Fico a disposição para dúvidas e agendamentos",
-        "chat_id": 16057,
-        "timestamp": "2026-01-20 14:16:48"
+        "chat_id": 1041,
+        "timestamp": "2026-03-21 14:16:48"
       },
       {
-        "question": "Olá,  boa tarde. Estive aí no dia 11/12, mas esqueci de pedir um atestado médico. A academia de spinning está pedindo para poder adiar meus créditos de aulas... será que o Dr Miguel poderia emitir e vc me mandar por aqui? Desde já agradeço...",
+        "question": "Olá,  boa tarde. Estive aí no dia 11/12, mas esqueci de pedir um atestado médico. A academia de spinning está pedindo para poder adiar meus créditos de aulas... será que o Aline Freitas poderia emitir e vc me mandar por aqui? Desde já agradeço...",
         "answer": "Boa tarde Cristiane, vou solicitar",
-        "chat_id": 15478,
-        "timestamp": "2025-12-19 17:34:37"
+        "chat_id": 1042,
+        "timestamp": "2026-02-17 17:34:37"
       },
       {
         "question": "Boa tarde, favor cancelar.",
         "answer": "Estamos a disposição para dúvidas e agendamento.",
-        "chat_id": 16137,
-        "timestamp": "2026-02-04 15:02:38"
+        "chat_id": 1043,
+        "timestamp": "2026-04-05 15:02:38"
       },
       {
         "question": "Boa tarde ! Surgiu um imprevisto para hoje",
         "answer": "Boa tarde, proximo horario dispomível seria nessa sexta as 16 horas, prefere reagendar nesse horário?",
-        "chat_id": 14985,
-        "timestamp": "2026-02-10 15:24:45"
+        "chat_id": 1044,
+        "timestamp": "2026-04-11 15:24:45"
       },
       {
         "question": "Então, aconteceu um imprevisto e eu não vou conseguir ir mais hoje",
         "answer": "Vou ver com amédica e retorno",
-        "chat_id": 16288,
-        "timestamp": "2026-02-03 11:52:00"
+        "chat_id": 1045,
+        "timestamp": "2026-04-04 11:52:00"
       },
       {
         "question": "Tive um imprevisto do trabalho e terei de viajar",
         "answer": "Me confirma o nome por gentileza",
-        "chat_id": 18679,
-        "timestamp": "2026-05-11 19:47:42"
+        "chat_id": 1046,
+        "timestamp": "2026-07-10 19:47:42"
       },
       {
         "question": "Oi Boa tarde!!!\n\nInfelizmente houve um imprevisto e não vou conseguir comparecer.",
-        "answer": "Dia 15 Dr Miguel estará em Congresso",
-        "chat_id": 14141,
-        "timestamp": "2026-05-07 19:30:06"
+        "answer": "Dia 15 Aline Freitas estará em Congresso",
+        "chat_id": 1047,
+        "timestamp": "2026-07-06 19:30:06"
       },
       {
         "question": "Boa tarde tudo bem?\n\nInfelizmente estou c um imprevisto q não vou conseguir ir essa semana.\nDepois marco pós carnaval.",
         "answer": "Quer deixar agendado para o dia 04/03?",
-        "chat_id": 16430,
-        "timestamp": "2026-02-09 19:24:04"
+        "chat_id": 1048,
+        "timestamp": "2026-04-10 19:24:04"
       },
       {
         "question": "Aline boa tarde, infelizmente tive um imprevisto não vou conseguir ir hoje",
         "answer": "Disponibilidade apenas em 27/03",
-        "chat_id": 16788,
-        "timestamp": "2026-02-27 15:48:40"
+        "chat_id": 1049,
+        "timestamp": "2026-04-28 15:48:40"
       },
       {
         "question": "Como podemos resolver, podemos conseguir uma nova data ou é melhor cancelar mesmo?",
         "answer": "Pode ser dia 20/03 as 19h?",
-        "chat_id": 16920,
-        "timestamp": "2026-03-06 13:13:35"
+        "chat_id": 1050,
+        "timestamp": "2026-05-05 13:13:35"
       }
     ],
     "valor": [
       {
         "question": "E quanto custaria aproximadamente o procedimento?",
         "answer": "Claro! Tem o laudo desse sinal que foi removido para encaminhar para o médico? E a foto da lesão?",
-        "chat_id": 15555,
-        "timestamp": "2025-12-11 00:24:17"
+        "chat_id": 1027,
+        "timestamp": "2026-02-09 00:24:17"
       },
       {
         "question": "sim, para ver o do valor",
-        "answer": "Não foi ela Dr Miguel",
-        "chat_id": 6635,
-        "timestamp": "2025-12-04 22:28:29"
+        "answer": "Não foi ela Aline Freitas",
+        "chat_id": 1008,
+        "timestamp": "2026-02-02 22:28:29"
       },
       {
         "question": "Gente, pagamento pros laboratórios tem que ser idealmente feito para o laboratório diretamente. Do contrário isso problematiza reembolso do paciente porque tem valores diferentes. Nos não deveríamos receber também dinheiro deles, que entra no caixa como se fosse nosso - eles que devem cobrar diretamente com o número do paciente -Nos podemos encaminhar o número de contato do paciente pro laboratório",
         "answer": "Não estou conseguido gerar nota fiscal",
-        "chat_id": 6635,
-        "timestamp": "2026-01-05 15:31:12"
+        "chat_id": 1008,
+        "timestamp": "2026-03-06 15:31:12"
       },
       {
         "question": "Conseguiu responder? Está incluso no valor mesmo",
         "answer": "Helena das 10h chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-01-12 23:15:55"
+        "chat_id": 1008,
+        "timestamp": "2026-03-13 23:15:55"
       },
       {
         "question": "Me passa pro favor os valores para pagamento",
         "answer": "Esse Matheus disse que não agendou nenhuma consulta pra hoje",
-        "chat_id": 6635,
-        "timestamp": "2026-01-26 17:57:52"
+        "chat_id": 1008,
+        "timestamp": "2026-03-27 17:57:52"
       },
       {
         "question": "ela esta tendo reembolso do plano? sim, vamos tener que fazer assim por enquanto, mas realmente estou dando desconto, normalmente vai ser 250 por sessão",
         "answer": "mas ela quer saber quando será cobrada consulta novamente",
-        "chat_id": 6635,
-        "timestamp": "2026-02-02 20:17:02"
+        "chat_id": 1008,
+        "timestamp": "2026-04-03 20:17:02"
       },
       {
         "question": "Eles modificaram alguma coisa? Ou é esse valor líquido?",
         "answer": "Valor líquido, os descontos foram feitos na primeira quinzena",
-        "chat_id": 6635,
-        "timestamp": "2026-02-05 15:17:58"
+        "chat_id": 1008,
+        "timestamp": "2026-04-06 15:17:58"
       },
       {
         "question": "valor dele foi 2000 ou 3 mil",
         "answer": "Vocês oferecem o procedimento de PRP com agulha longa inserida sob a pele? Qual o preço?",
-        "chat_id": 6635,
-        "timestamp": "2026-03-05 14:29:15"
+        "chat_id": 1008,
+        "timestamp": "2026-05-04 14:29:15"
       },
       {
-        "question": "Nome: Bianca De Azevedo Ribeiro\n\n1 - Relatório procedimento cirúrgico  nullx\nRELATÓRIO PROCEDIMENTO CIRÚRGICO \n\nHIPÓTESE DIAGNÓSTICA: ONICOCRIPTOSE L60.0 (RETRONÍQUIA CRÔNICA)\n\n<br>\n\nCódigo TUSS Procedimento:\n\n#procedimentos#\n\n<br>\n\n30101484 EXERESE DE UNHA  1 unhas 2000\n\n30101948 CANTOPLASTIA UNGUEAL 2 cantos 500 \n\n30101956 UNHA ENXERTO TRATAMENTO CIRURGICO 1 unhas 500\n\n<br>\n\n<br>\n\nCONDUTA:<br>\n\n1.\tAssepsia local\n\n2.\tAnestesia local digital proximal\n\n3. Descolamento da área proximal de matriz ungueal\n\n4. Descolamento da placa ungueal por avulsão proximal\n\n5.\tCurativo local compressivo\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico  - 3000,00 reais\n\nAmostra será encaminhada para histopatologia\n\n<br>\n\n________________________________________________________<br>\n\nRIO DE JANEIRO 06.03.2026/    DR MIGUEL CECCARELLI    /   CRMRJ 520109245-6 RQE 34414\n\n]",
+        "question": "Nome: Juliana Souza\n\n1 - Relatório procedimento cirúrgico  nullx\nRELATÓRIO PROCEDIMENTO CIRÚRGICO \n\nHIPÓTESE DIAGNÓSTICA: ONICOCRIPTOSE L60.0 (RETRONÍQUIA CRÔNICA)\n\n<br>\n\nCódigo TUSS Procedimento:\n\n#procedimentos#\n\n<br>\n\n[CEP REMOVIDO] EXERESE DE UNHA  1 unhas 2000\n\n[CEP REMOVIDO] CANTOPLASTIA UNGUEAL 2 cantos 500 \n\n[CEP REMOVIDO] UNHA ENXERTO TRATAMENTO CIRURGICO 1 unhas 500\n\n<br>\n\n<br>\n\nCONDUTA:<br>\n\n1.\tAssepsia local\n\n2.\tAnestesia local digital proximal\n\n3. Descolamento da área proximal de matriz ungueal\n\n4. Descolamento da placa ungueal por avulsão proximal\n\n5.\tCurativo local compressivo\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico  - 3000,00 reais\n\nAmostra será encaminhada para histopatologia\n\n<br>\n\n________________________________________________________<br>\n\nRIO DE JANEIRO 06.03.2026/    Aline Freitas CECCARELLI    /   CRMRJ 520109245-6 RQE 34414\n\n]",
         "answer": "Confirmar Pix de Luis Paulo",
-        "chat_id": 6635,
-        "timestamp": "2026-03-06 13:54:13"
+        "chat_id": 1008,
+        "timestamp": "2026-05-05 13:54:13"
       },
       {
         "question": "Informar valor de 3 mil para ele",
-        "answer": "@118957843427582 Agendei uma emergencia de alergia pra vc as 19h",
-        "chat_id": 6635,
-        "timestamp": "2026-03-09 21:13:07"
+        "answer": "@11895[TELEFONE REMOVIDO] Agendei uma emergencia de alergia pra vc as 19h",
+        "chat_id": 1008,
+        "timestamp": "2026-05-08 21:13:07"
       },
       {
-        "question": "Nome: Joaquim Padilha Sanches\n\n1 - Relatório procedimento cirúrgico  nullx\nRELATÓRIO PROCEDIMENTO CIRÚRGICO \n\nHIPÓTESE DIAGNÓSTICA: ONICOCRIPTOSE L60.0 + HIPERCURVATURA TRANSVERSA L60.9+ GRANULOMA PIOGENICO L98.0\n\n<br>\n\nCódigo TUSS Procedimento:\n\n#procedimentos#\n\n<br>\n\n30101476 Exérese de tumor e rotação de retalho músculo-cutâneo 2 cantos - Granuloma piogênico 1000\n\n30101662 MATRICECTOMIA POR DOBRA UNGUEAL  2 dobras 1000\n\n30101484 EXERESE DE UNHA  1 unhas 250\n\n30101948 CANTOPLASTIA UNGUEAL 2 cantos 500 \n\n30101956 UNHA ENXERTO TRATAMENTO CIRURGICO 1 unhas 250\n\n<br>\n\n<br>\n\nCONDUTA:<br>\n\n1.\tAssepsia local\n\n2.\tAnestesia local digital proximal\n\n3. Excisão de tumoração e laminectomia lateral\n\n4.\tMatricectomia lateral\n\n5.\tExcisão da hipertrofia de dobra lateral\n\n6.\tCuretagem da região matricial retirada\n\n7.\tFenolização - cauterização química\n\n8. Rotação de retalho de dobra proximal para lateral\n\n8.\tSutura das dobras laterais\n\n9.\tCurativo local compressivo\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico  - 3000,00 reais\n\nAmostra será encaminhada para histopatologia\n\n<br>\n\n________________________________________________________<br>\n\nRIO DE JANEIRO  /    DR MIGUEL CECCARELLI    /   CRMRJ 520109245-6 RQE 34414",
+        "question": "Nome: Lucas Pereira\n\n1 - Relatório procedimento cirúrgico  nullx\nRELATÓRIO PROCEDIMENTO CIRÚRGICO \n\nHIPÓTESE DIAGNÓSTICA: ONICOCRIPTOSE L60.0 + HIPERCURVATURA TRANSVERSA L60.9+ GRANULOMA PIOGENICO L98.0\n\n<br>\n\nCódigo TUSS Procedimento:\n\n#procedimentos#\n\n<br>\n\n[CEP REMOVIDO] Exérese de tumor e rotação de retalho músculo-cutâneo 2 cantos - Granuloma piogênico 1000\n\n[CEP REMOVIDO] MATRICECTOMIA POR DOBRA UNGUEAL  2 dobras 1000\n\n[CEP REMOVIDO] EXERESE DE UNHA  1 unhas 250\n\n[CEP REMOVIDO] CANTOPLASTIA UNGUEAL 2 cantos 500 \n\n[CEP REMOVIDO] UNHA ENXERTO TRATAMENTO CIRURGICO 1 unhas 250\n\n<br>\n\n<br>\n\nCONDUTA:<br>\n\n1.\tAssepsia local\n\n2.\tAnestesia local digital proximal\n\n3. Excisão de tumoração e laminectomia lateral\n\n4.\tMatricectomia lateral\n\n5.\tExcisão da hipertrofia de dobra lateral\n\n6.\tCuretagem da região matricial retirada\n\n7.\tFenolização - cauterização química\n\n8. Rotação de retalho de dobra proximal para lateral\n\n8.\tSutura das dobras laterais\n\n9.\tCurativo local compressivo\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico  - 3000,00 reais\n\nAmostra será encaminhada para histopatologia\n\n<br>\n\n________________________________________________________<br>\n\nRIO DE JANEIRO  /    Aline Freitas CECCARELLI    /   CRMRJ 520109245-6 RQE 34414",
         "answer": "Agendei consulta as 19h",
-        "chat_id": 6635,
-        "timestamp": "2026-03-17 21:00:57"
+        "chat_id": 1008,
+        "timestamp": "2026-05-16 21:00:57"
       },
       {
         "question": "Já lembrei essa foi uma paciente que foi operada em outro local está com uma recorrência só não lembro se falei valores pra ela",
         "answer": "ela é veterinaria de Niterói",
-        "chat_id": 6635,
-        "timestamp": "2026-03-18 16:24:31"
+        "chat_id": 1008,
+        "timestamp": "2026-05-17 16:24:31"
       },
       {
         "question": "É que se não falei de valores, ela ia também filmar uma cena numa novela uma coisa assim",
         "answer": "Solange agendou podologia",
-        "chat_id": 6635,
-        "timestamp": "2026-03-18 16:28:29"
+        "chat_id": 1008,
+        "timestamp": "2026-05-17 16:28:29"
       },
       {
         "question": "Pode falar pra ela que o valor do procedimento será 2000 que vou ter que ver ela em duas semanas para retorno",
-        "answer": "Qual Paula Dr Miguel?",
-        "chat_id": 6635,
-        "timestamp": "2026-03-19 12:34:32"
+        "answer": "Qual Paula Aline Freitas?",
+        "chat_id": 1008,
+        "timestamp": "2026-05-18 12:34:32"
       },
       {
         "question": "quanto foi que ela pagou mesmo?",
         "answer": "mas ela fez uma sessão de podologia já",
-        "chat_id": 6635,
-        "timestamp": "2026-03-23 14:51:36"
+        "chat_id": 1008,
+        "timestamp": "2026-05-22 14:51:36"
       },
       {
         "question": "Que assim que envie os dados bancários se fará o reembolso restando o valor da primeira podologia",
-        "answer": "Bom dia\nChave pix cpf do marido\nGUSTAVO ADOLFO BAILLY.\n09886184787.",
-        "chat_id": 6635,
-        "timestamp": "2026-03-31 12:41:01"
+        "answer": "Bom dia\nChave pix cpf do marido\nGUSTAVO ADOLFO BAILLY.\n[CPF REMOVIDO].",
+        "chat_id": 1008,
+        "timestamp": "2026-05-30 12:41:01"
       },
       {
         "question": "Aline entra emcontato com a luciana correa, vamos fazer retirada da unha do senhor ayrton, o valor 2500",
         "answer": "Olga chegou mais cedo, se puder antecipar",
-        "chat_id": 6635,
-        "timestamp": "2026-04-07 17:56:34"
+        "chat_id": 1008,
+        "timestamp": "2026-06-06 17:56:34"
       },
       {
         "question": "Outra opção que ela faça em hospital por aqui, mas o valor continua o mesmo como comentamos a última vez",
-        "answer": "@118957843427582 Lindalva chegou para curativo",
-        "chat_id": 6635,
-        "timestamp": "2026-04-15 17:18:31"
+        "answer": "@11895[TELEFONE REMOVIDO] Lindalva chegou para curativo",
+        "chat_id": 1008,
+        "timestamp": "2026-06-14 17:18:31"
       },
       {
         "question": "Acho que pra ela vai ser cobrar as infiltrações mesmo, quanto foi que cobramos a última vez ?",
         "answer": "Cristiane está disponível para retorno de pacote",
-        "chat_id": 6635,
-        "timestamp": "2026-04-24 14:14:11"
+        "chat_id": 1008,
+        "timestamp": "2026-06-23 14:14:11"
       },
       {
-        "question": "Nome: Marcelo Senna\n\n1 - Relatório de procedimento cirurgico  nullx\n<br>\n\nTempo de existência da doença: 1 ano\n\nPaciente com antecedente de MELANOMA IN SITU há 15 anos no rosto, apresentando melanoníquia de aproximadamente de 1 ano de evolução; apresentando crescimento da lesão com mudança das cores, de aproximadamente 3 mm de extensão, com pseudo-hutchinson. \n\n<br>\n\nHD: Melanoma subungueal, Lentigo, nevo melanocítico, Doença de Bowen \n\nCONDUTA:\n\n30101085 Biopsia de unha R$ 250.00 reais\n\n30101484 Exerese de unha  R$ 250.00 reais\n\n30101476 Exérese de tumor e rotação de retalho músculo-cutâneo 1 canto R$ 1000.00 reais\n\n30101662 MATRICECTOMIA POR DOBRA UNGUEAL  1 dobra R$ 500.00 reais\n\n30101948 CANTOPLASTIA UNGUEAL 1 canto R$ 500.00 reais\n\n30101956 UNHA ENXERTO TRATAMENTO CIRURGICO R$ 250.00 reais\n\n30101077 BIOPSIA DE PELE R$ 250.00 reais\n\n<br>\n\nCONDUTA:\n\n1. Assepsia local\n\n2. Anestesia local digital proximal\n\n3. Excisão de tumoração e laminectomia lateral\n\n4. Matricectomia lateral\n\n5.Rotacao de retalho de dobra proximal para lateral\n\n6. Sutura das dobras laterais\n\n7. Curativo local compressivo\n\n<br>\n\nMaterial será encaminhado para analise histopatologica.\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico - 3000,00 por cada dedo - 1 dedo\n\n________________________________________________________\n\nRIO DE JANEIRO 27.04.2026 /    DR MIGUEL CECCARELLI  /   CRMRJ 520109245-6",
+        "question": "Nome: Larissa Mendes\n\n1 - Relatório de procedimento cirurgico  nullx\n<br>\n\nTempo de existência da doença: 1 ano\n\nPaciente com antecedente de MELANOMA IN SITU há 15 anos no rosto, apresentando melanoníquia de aproximadamente de 1 ano de evolução; apresentando crescimento da lesão com mudança das cores, de aproximadamente 3 mm de extensão, com pseudo-hutchinson. \n\n<br>\n\nHD: Melanoma subungueal, Lentigo, nevo melanocítico, Doença de Bowen \n\nCONDUTA:\n\n[CEP REMOVIDO] Biopsia de unha R$ 250.00 reais\n\n[CEP REMOVIDO] Exerese de unha  R$ 250.00 reais\n\n[CEP REMOVIDO] Exérese de tumor e rotação de retalho músculo-cutâneo 1 canto R$ 1000.00 reais\n\n[CEP REMOVIDO] MATRICECTOMIA POR DOBRA UNGUEAL  1 dobra R$ 500.00 reais\n\n[CEP REMOVIDO] CANTOPLASTIA UNGUEAL 1 canto R$ 500.00 reais\n\n[CEP REMOVIDO] UNHA ENXERTO TRATAMENTO CIRURGICO R$ 250.00 reais\n\n[CEP REMOVIDO] BIOPSIA DE PELE R$ 250.00 reais\n\n<br>\n\nCONDUTA:\n\n1. Assepsia local\n\n2. Anestesia local digital proximal\n\n3. Excisão de tumoração e laminectomia lateral\n\n4. Matricectomia lateral\n\n5.Rotacao de retalho de dobra proximal para lateral\n\n6. Sutura das dobras laterais\n\n7. Curativo local compressivo\n\n<br>\n\nMaterial será encaminhado para analise histopatologica.\n\n<br>\n\nVALORES COBRADOS - HONORÁRIOS\n\n. procedimento cirúrgico - 3000,00 por cada dedo - 1 dedo\n\n________________________________________________________\n\nRIO DE JANEIRO 27.04.2026 /    Aline Freitas CECCARELLI  /   CRMRJ 520109245-6",
         "answer": "Agendei no sábado as 15h como havia pedido.",
-        "chat_id": 6635,
-        "timestamp": "2026-04-27 12:43:56"
+        "chat_id": 1008,
+        "timestamp": "2026-06-26 12:43:56"
       }
     ],
     "convenio": [
       {
         "question": "Aceita Bradesco?",
         "answer": "Convênio médico apenas na modalidade reembolso com nota fiscal.",
-        "chat_id": 15068,
-        "timestamp": "2026-02-02 17:25:36"
+        "chat_id": 1051,
+        "timestamp": "2026-04-03 17:25:36"
       },
       {
         "question": "Do Vitor já está pago?\nEle me apresentou a carteirinha do plano",
         "answer": "ele pagou pelo aplicativo da doctoralia",
-        "chat_id": 13691,
-        "timestamp": "2026-05-08 18:01:59"
+        "chat_id": 1033,
+        "timestamp": "2026-07-07 18:01:59"
       },
       {
         "question": "que foi da  camila",
         "answer": "ainda não respondeu, vou ligar",
-        "chat_id": 6635,
-        "timestamp": "2025-12-15 14:03:06"
+        "chat_id": 1008,
+        "timestamp": "2026-02-13 14:03:06"
       },
       {
         "question": "certo, a cirurgia de Camila é 4 k",
         "answer": "vou pedir pra ele separar o material de biopsia assim que chegar",
-        "chat_id": 6635,
-        "timestamp": "2025-12-15 16:16:09"
+        "chat_id": 1008,
+        "timestamp": "2026-02-13 16:16:09"
       },
       {
         "question": "Nesse caso tentamos falar pro paciente que a gente faz a coleta, mas que o processamento é feito por um laboratório associado ao plano ou também por pago extra",
         "answer": "mas só as coletas é 600,00?",
-        "chat_id": 6635,
-        "timestamp": "2026-01-12 17:43:41"
+        "chat_id": 1008,
+        "timestamp": "2026-03-13 17:43:41"
       },
       {
         "question": "Ontem tivermos a reunião com o Alex sobre a emissão do pix. É melhor fazer com o nossa chave e não com a maquininha para evitar a taxa. O que ele falou foi que realmente é muito burocrático fazer o pedido de reembolso de pix em caso de fraude, então acha improvável algum mal intencionado fazer isso",
         "answer": "temos que inserir os QRcode de PIX, Instagram e Wifi na Alexia da recepção",
-        "chat_id": 6635,
-        "timestamp": "2026-02-26 19:03:39"
+        "chat_id": 1008,
+        "timestamp": "2026-04-27 19:03:39"
       },
       {
         "question": "Temos o convênio dela?",
         "answer": "estou no wapp com a dasa",
-        "chat_id": 6635,
-        "timestamp": "2026-03-10 16:20:23"
+        "chat_id": 1008,
+        "timestamp": "2026-05-09 16:20:23"
       },
       {
         "question": "Pedi para ela ficar atenta com o plano também",
         "answer": "Os valores de podologia passei pra ela de manhã",
-        "chat_id": 6635,
-        "timestamp": "2026-03-30 22:52:01"
+        "chat_id": 1008,
+        "timestamp": "2026-05-29 22:52:01"
       },
       {
         "question": "Ok. Pede para el o contato do familiar dele",
         "answer": "Qual o contato, não estou achando",
-        "chat_id": 6635,
-        "timestamp": "2026-04-01 19:38:12"
+        "chat_id": 1008,
+        "timestamp": "2026-05-31 19:38:12"
       },
       {
         "question": "Eu nãosei se ele tem plano e se vai pedir reembolso",
-        "answer": "@118957843427582 Arturo chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-04-08 20:52:09"
+        "answer": "@11895[TELEFONE REMOVIDO] Arturo chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-06-07 20:52:09"
       },
       {
         "question": "foi no bradesco?",
         "answer": "Comprovante_16-04-2026_174247.pdf",
-        "chat_id": 6635,
-        "timestamp": "2026-04-20 13:28:47"
+        "chat_id": 1008,
+        "timestamp": "2026-06-19 13:28:47"
       },
       {
         "question": "a familiar dela esta muito ansiosa porque realmente ela e paciente um pouco mais grave e precisamos operar antes",
         "answer": "Sim, expliquei pra Deborah a burocracia e que estamos tentando ao máximo não estender muito o dia",
-        "chat_id": 6635,
-        "timestamp": "2026-04-28 20:35:18"
+        "chat_id": 1008,
+        "timestamp": "2026-06-27 20:35:18"
       },
       {
         "question": "Pedi para ela entrar em contato com o plano",
         "answer": "ela entrou mas ainda não havia solicitação de internação no sistema",
-        "chat_id": 6635,
-        "timestamp": "2026-04-28 20:37:03"
+        "chat_id": 1008,
+        "timestamp": "2026-06-27 20:37:03"
       },
       {
         "question": "Aline pode enviar isso pra a familiar da Wilma para ela ficar ciente que não foi culpa nossa",
         "answer": "Envei, ela endendeu mas a Sra Wilma não quer fazer",
-        "chat_id": 6635,
-        "timestamp": "2026-05-05 16:12:50"
+        "chat_id": 1008,
+        "timestamp": "2026-07-04 16:12:50"
       },
       {
         "question": "Podemos cobrar 600 pelas duas acredito e colocar a nota pra eles. Tanto de declaração de renda e reembolso",
-        "answer": "@118957843427582 Sr Ricardo Vaz pediu indicação de fabricantes de calçados quadrados",
-        "chat_id": 6635,
-        "timestamp": "2026-05-07 17:12:39"
+        "answer": "@11895[TELEFONE REMOVIDO] Sr Ricardo Vaz pediu indicação de fabricantes de calçados quadrados",
+        "chat_id": 1008,
+        "timestamp": "2026-07-06 17:12:39"
       },
       {
         "question": "Pix não tem no bradesco",
         "answer": "ao cancelar a consulta o doctoralia envia uma mensagem dizendo que o paciente receberá o valor integral caso a consulta seja cancelada mas o Fernando não foi ressarcido e o doctoralia fala que é com agente",
-        "chat_id": 6635,
-        "timestamp": "2026-05-07 18:55:01"
+        "chat_id": 1008,
+        "timestamp": "2026-07-06 18:55:01"
       },
       {
         "question": "já fiz o reembolso",
         "answer": "meu login não permite acesso a esses dados",
-        "chat_id": 6635,
-        "timestamp": "2026-05-07 19:55:45"
+        "chat_id": 1008,
+        "timestamp": "2026-07-06 19:55:45"
       },
       {
         "question": "porque ela tem um convenio que nao dá reembolso",
         "answer": "Dr. Miguel é médico dermatologista especializado em doença das unhas",
-        "chat_id": 15865,
-        "timestamp": "2026-01-07 16:16:55"
+        "chat_id": 1022,
+        "timestamp": "2026-03-08 16:16:55"
       },
       {
         "question": "De rever planos com Regina",
-        "answer": "Joaquim Padilha Sanches",
-        "chat_id": 6080,
-        "timestamp": "2026-03-26 22:22:24"
+        "answer": "Lucas Pereira",
+        "chat_id": 1052,
+        "timestamp": "2026-05-25 22:22:24"
       },
       {
         "question": "pode me ajudar primeiro gostaria de saber se atendem pelo plano",
         "answer": "Não consegui entender. Por favor, digite o *número* do dia desejado (ex: 1) ou *0* para voltar.",
-        "chat_id": 6080,
-        "timestamp": "2026-05-01 19:03:30"
+        "chat_id": 1052,
+        "timestamp": "2026-06-30 19:03:30"
       }
     ],
     "retorno": [
       {
         "question": "ok cobra 3500 mil com todo o acompanhamento",
         "answer": "A mãe do João te achou no google",
-        "chat_id": 6635,
-        "timestamp": "2025-12-04 22:34:03"
+        "chat_id": 1008,
+        "timestamp": "2026-02-02 22:34:03"
       },
       {
         "question": "retorno de aqui a um mes",
         "answer": "Não. Vou colocar como consulta na próxima",
-        "chat_id": 6635,
-        "timestamp": "2025-12-17 16:26:46"
+        "chat_id": 1008,
+        "timestamp": "2026-02-15 16:26:46"
       },
       {
         "question": "Me da retorno disso por gentileza",
         "answer": "ele não respondeu ainda",
-        "chat_id": 6635,
-        "timestamp": "2026-01-12 21:53:40"
+        "chat_id": 1008,
+        "timestamp": "2026-03-13 21:53:40"
       },
       {
         "question": "Incluindo todo o acompanhamento",
         "answer": "dinheiro ou pix tem desconto?",
-        "chat_id": 6635,
-        "timestamp": "2026-01-27 19:02:23"
+        "chat_id": 1008,
+        "timestamp": "2026-03-28 19:02:23"
       },
       {
         "question": "Aline por genteileza, esses pacientes de retorno de sao paulo sempre coloca 30 min",
         "answer": "Agendei um paciente para dia 25/4 primeira vez",
-        "chat_id": 6635,
-        "timestamp": "2026-04-06 19:41:20"
+        "chat_id": 1008,
+        "timestamp": "2026-06-05 19:41:20"
       },
       {
         "question": "No retorno dele, isso",
-        "answer": "@245285984931994 Attila das 15h chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-04-08 17:31:16"
+        "answer": "@2452[TELEFONE REMOVIDO] Attila das 15h chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-06-07 17:31:16"
       },
       {
         "question": "joaquim padilha acho e retorno",
         "answer": "ele fez cirurgia correto?",
-        "chat_id": 6635,
-        "timestamp": "2026-04-28 15:08:31"
+        "chat_id": 1008,
+        "timestamp": "2026-06-27 15:08:31"
       },
       {
         "question": "daniele e consutla ou retorno?",
         "answer": "a ultima consulta foi 30/3",
-        "chat_id": 6635,
-        "timestamp": "2026-05-05 14:54:43"
+        "chat_id": 1008,
+        "timestamp": "2026-07-04 14:54:43"
       },
       {
         "question": "retorno num mes",
-        "answer": "@118957843427582 Kauã chegou",
-        "chat_id": 6635,
-        "timestamp": "2026-05-12 15:47:22"
+        "answer": "@11895[TELEFONE REMOVIDO] Kauã chegou",
+        "chat_id": 1008,
+        "timestamp": "2026-07-11 15:47:22"
       },
       {
         "question": "Esse paciente Jefferson nicacio deveria voltar em maio",
         "answer": "Voce me entregou hoje",
-        "chat_id": 6080,
-        "timestamp": "2026-03-25 16:52:25"
+        "chat_id": 1052,
+        "timestamp": "2026-05-24 16:52:25"
       },
       {
         "question": "Com todo o acompanhamento e os três primeiros retornos",
         "answer": "Roberta Almeida Nery3.pdf",
-        "chat_id": 6080,
-        "timestamp": "2026-05-05 15:23:37"
+        "chat_id": 1052,
+        "timestamp": "2026-07-04 15:23:37"
       },
       {
         "question": "Bom dia Retorno",
         "answer": "OK, posso agendar um botox logo após o Rian? já é sua paciente",
-        "chat_id": 5717,
-        "timestamp": "2026-05-04 14:03:27"
+        "chat_id": 1009,
+        "timestamp": "2026-07-03 14:03:27"
       },
       {
         "question": "Tenho um retorno com o Dr Diego marcado para o dia 05/01. \n\nEstou utilizando os medicamentos recomendados corretamente, porém não estou sentindo resultado nos problemas que relatei. \n\nHoje fazem 7 dias, gostaria de saber se é necessário algum ajuste.",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 15649,
-        "timestamp": "2025-12-22 14:04:57"
+        "chat_id": 1053,
+        "timestamp": "2026-02-20 14:04:57"
       },
       {
         "question": "Bom dia, Dr. Sem problema . Ela pode ver isso quando voltar de férias sem problema 👍🏽",
-        "answer": "É Aline, secretária do Dr Miguel",
-        "chat_id": 10303,
-        "timestamp": "2026-02-12 14:07:36"
+        "answer": "É Aline, secretária do Aline Freitas",
+        "chat_id": 1054,
+        "timestamp": "2026-04-13 14:07:36"
       },
       {
         "question": "Bom dia ! Preciso trocar meu retorno , se possivel",
         "answer": "Muito obrigada por responder!",
-        "chat_id": 4255,
-        "timestamp": "2025-12-31 12:44:47"
+        "chat_id": 1055,
+        "timestamp": "2026-03-01 12:44:47"
       },
       {
-        "question": "Ola boa tarde !  Peço desculpa mais nao vou consegui ir ao retorno com Dr Miguel , Mais gostaria que ele me mandace o resultado do exame de fungo que ele fez .. Se possivel",
+        "question": "Ola boa tarde !  Peço desculpa mais nao vou consegui ir ao retorno com Aline Freitas , Mais gostaria que ele me mandace o resultado do exame de fungo que ele fez .. Se possivel",
         "answer": "Bom dia Lucinete! Entrarei em contato com laboratório e retorno.",
-        "chat_id": 4255,
-        "timestamp": "2026-01-05 15:43:15"
+        "chat_id": 1055,
+        "timestamp": "2026-03-06 15:43:15"
       },
       {
         "question": "Marca por favor retorno para a próxima data aqui na Barra daqui 30 dias",
         "answer": "Boa tarde, dia 8 ou 22 de maio as 14 horas?",
-        "chat_id": 5360,
-        "timestamp": "2026-04-17 19:18:22"
+        "chat_id": 1024,
+        "timestamp": "2026-06-16 19:18:22"
       },
       {
         "question": "Oi Aline poderia me dar um retorno sobre a NF.",
         "answer": "Sessão ADELAIDE MARTINS VIEIRA.pdf",
-        "chat_id": 15686,
-        "timestamp": "2026-03-26 05:08:40"
+        "chat_id": 1013,
+        "timestamp": "2026-05-25 05:08:40"
       },
       {
         "question": "vou viajar e retorno dia 6/5",
         "answer": "Tem um retorno agendado para dia 27/4, segunda feira as 16h",
-        "chat_id": 15916,
-        "timestamp": "2026-04-22 15:00:22"
+        "chat_id": 1056,
+        "timestamp": "2026-06-21 15:00:22"
       },
       {
         "question": "boa tarde \nterei que cancelar meu retorno na 2f",
         "answer": "Boa tarde gostaria de reagendar?",
-        "chat_id": 15916,
-        "timestamp": "2026-04-24 16:08:09"
+        "chat_id": 1056,
+        "timestamp": "2026-06-23 16:08:09"
       }
     ],
     "teleconsulta": [
       {
         "question": "aline pode ver aqui neste video",
         "answer": "meu login não permite acesso a esses dados",
-        "chat_id": 6635,
-        "timestamp": "2026-05-07 19:55:33"
+        "chat_id": 1008,
+        "timestamp": "2026-07-06 19:55:33"
       },
       {
         "question": "Seria possivel faze la online?",
         "answer": "Boa noite Júlia. Claro que sim.",
-        "chat_id": 15349,
-        "timestamp": "2025-12-05 21:48:33"
+        "chat_id": 1036,
+        "timestamp": "2026-02-03 21:48:33"
       },
       {
         "question": "Nesse caso como estaria a agenda para online dia 19?",
         "answer": "Tem preferencia de horário?",
-        "chat_id": 15993,
-        "timestamp": "2026-01-14 12:41:50"
+        "chat_id": 1057,
+        "timestamp": "2026-03-15 12:41:50"
       },
       {
         "question": "Online, a partir de 15h",
         "answer": "Bom dia, pode ser na quarta às 17 h?",
-        "chat_id": 16178,
-        "timestamp": "2026-01-25 11:54:21"
+        "chat_id": 1058,
+        "timestamp": "2026-03-26 11:54:21"
       },
       {
         "question": "E queria saber se poderia ser online",
         "answer": "Alterada para teleconsulta",
-        "chat_id": 16202,
-        "timestamp": "2026-01-27 11:34:46"
+        "chat_id": 1059,
+        "timestamp": "2026-03-28 11:34:46"
       },
       {
         "question": "Pode ser online?",
         "answer": "Para realizar o cadastro na plataforma de agendamento vou precisar de alguns dados. Qual seria o nome completo, CPF, data de nascimento e e-mail do paciente por gentileza? Foi indicado por alguém?",
-        "chat_id": 16332,
-        "timestamp": "2026-01-31 23:38:47"
+        "chat_id": 1060,
+        "timestamp": "2026-04-01 23:38:47"
       },
       {
         "question": "Online é 800 reais tb?",
         "answer": "Caso seja exculsivamente online, o valor é de 650 reais. Se for online com retorno para avaliação presencial em SP,  na qual tem avaliação com dermatoscopia no consultório, que é o mais desejável, o valor é 800 reais.",
-        "chat_id": 18742,
-        "timestamp": "2026-05-03 13:11:28"
+        "chat_id": 1061,
+        "timestamp": "2026-07-02 13:11:28"
       },
       {
         "question": "Qual a diferença da presencial e da online",
         "answer": "Caso seja exculsivamente online, o valor é de 650 reais. Se for online com retorno para avaliação presencial em SP,  na qual tem avaliação com dermatoscopia no consultório, que é o mais desejável, o valor é 800 reais.",
-        "chat_id": 18742,
-        "timestamp": "2026-05-03 13:11:43"
+        "chat_id": 1061,
+        "timestamp": "2026-07-02 13:11:43"
       },
       {
         "question": "Estimado doctor, le envío el programa, artes y video promocionando el I SIMPOSIO INTERNACIONAL DE PATOLOGÍA UNGUEAL",
         "answer": "Nossa equipe entrará em contato com você em breve para oferecer toda a ajuda necessária! 😊",
-        "chat_id": 2504,
-        "timestamp": "2026-04-27 19:02:33"
+        "chat_id": 1062,
+        "timestamp": "2026-06-26 19:02:33"
       },
       {
         "question": "*Tenho que tentar mais coisas!😁*\nhttps://kwai-video.com/p/stoxC9H9",
         "answer": "Avalie a qualidade do serviço de 1 a 10",
-        "chat_id": 17161,
-        "timestamp": "2026-02-27 08:25:16"
+        "chat_id": 1063,
+        "timestamp": "2026-04-28 08:25:16"
       },
       {
         "question": "Bênçãos para todos 🙏\nhttps://kwai-video.com/p/h4CZGAwE\nVenha assistir a esse vídeo\nhttps://kwai-video.com/p/PVC5gBOD",
         "answer": "Avalie a qualidade do serviço de 1 a 10",
-        "chat_id": 17161,
-        "timestamp": "2026-03-02 10:06:02"
+        "chat_id": 1063,
+        "timestamp": "2026-05-01 10:06:02"
       },
       {
         "question": "*Tenho que tentar mais coisas!😁*\nhttps://kwai-video.com/p/kiCpxMH5",
         "answer": "Avalie a qualidade do serviço de 1 a 10",
-        "chat_id": 17161,
-        "timestamp": "2026-03-02 21:49:34"
+        "chat_id": 1063,
+        "timestamp": "2026-05-01 21:49:34"
       },
       {
         "question": "*Tenho que tentar mais coisas!😁*\nhttps://kwai-video.com/p/jPZxxHCe",
         "answer": "Avalie a qualidade do serviço de 1 a 10",
-        "chat_id": 17161,
-        "timestamp": "2026-03-03 12:01:25"
+        "chat_id": 1063,
+        "timestamp": "2026-05-02 12:01:25"
       },
       {
         "question": "O mais próximo possível. Sendo online, tenho disponibilidade total (exceto entre os dias 18/02 a 22/02)",
         "answer": "Seria possível na terça feira dia 3 às 18 h?",
-        "chat_id": 16334,
-        "timestamp": "2026-02-01 01:46:24"
+        "chat_id": 1064,
+        "timestamp": "2026-04-02 01:46:24"
       },
       {
         "question": "Queria online pra hj",
         "answer": "O Dr. Miguel Ceccarelli pode atender hoje as 19h",
-        "chat_id": 16526,
-        "timestamp": "2026-02-07 15:00:16"
+        "chat_id": 1065,
+        "timestamp": "2026-04-08 15:00:16"
       },
       {
         "question": "Hello ! I found out about your clinic online I was wondering if you treat mycosis of the nails with Laser ?",
         "answer": "*Olá! Seja bem-vindo(a) à Clinica QARA!*\nConte conosco para cuidar da sua saúde. Qualquer duvida ou agendamento, estamos à disposição!",
-        "chat_id": 16875,
-        "timestamp": "2026-02-17 11:37:18"
+        "chat_id": 1066,
+        "timestamp": "2026-04-18 11:37:18"
       },
       {
         "question": "Recebi um link da doctoralia para entrar na chamada de video as 14hr, é isso mesmo?",
         "answer": "Vou enviar sua nota fiscal",
-        "chat_id": 18091,
-        "timestamp": "2026-04-14 16:34:09"
+        "chat_id": 1067,
+        "timestamp": "2026-06-13 16:34:09"
       },
       {
         "question": "Teria que ser online, pois moro no RS.",
         "answer": "Nossa equipe entrará em contato com você em breve para oferecer toda a ajuda necessária! 😊",
-        "chat_id": 15554,
-        "timestamp": "2025-12-11 00:13:09"
+        "chat_id": 1068,
+        "timestamp": "2026-02-09 00:13:09"
       },
       {
         "question": "Teria que online mesmo, pois sou do ES",
         "answer": "Boa noite. Para o dia sábado, 28? Vou verificar os horários do Dr.",
-        "chat_id": 17390,
-        "timestamp": "2026-03-06 23:35:46"
+        "chat_id": 1069,
+        "timestamp": "2026-05-05 23:35:46"
       },
       {
         "question": "Poderia ser online?",
         "answer": "É possível, porém sempre desejável ser consulta presencial na primeira consulta. O valor da consulta é o mesmo, realizada mediante pagamento prévio do valor.",
-        "chat_id": 17393,
-        "timestamp": "2026-03-07 00:49:54"
+        "chat_id": 1070,
+        "timestamp": "2026-05-06 00:49:54"
       }
     ]
-  }
+  },
+  "_anonymized": true,
+  "_note": "Dados anonimizados: CPF, e-mail, telefone, CEP, datas, endereços, nomes (15 mapeamentos) e filenames (2); chat_ids remapeados; timestamps +60 dias."
 }

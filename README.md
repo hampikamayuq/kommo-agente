@@ -90,7 +90,7 @@ MAX_HISTORY_TURNS=20
 
 # Timeouts de retomada automática
 HUMAN_TIMEOUT_HOURS=4
-BOT_TIMEOUT_MINUTES=30
+BOT_TIMEOUT_MINUTES=3
 ```
 
 ### Referência das variáveis
@@ -230,7 +230,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --workers 1
 - Exponha a porta `8000`.
 - Configure health check via `/health`.
 
-> Observação: este repositório não inclui `Dockerfile` neste momento.
+> Este repositório inclui `Dockerfile` e `render.yaml` prontos para deploy no Render.
 
 ---
 

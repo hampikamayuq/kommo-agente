@@ -34,7 +34,7 @@ services:
       - key: HUMAN_TIMEOUT_HOURS
         value: "4"
       - key: BOT_TIMEOUT_MINUTES
-        value: "30"
+        value: "3"
     disk:
       name: kommo-data
       mountPath: /data
