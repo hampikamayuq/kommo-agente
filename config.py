@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     DB_PATH: str = "conversations.db"
 
     HUMAN_TIMEOUT_HOURS: int = 4
-    BOT_TIMEOUT_MINUTES: int = 30
+    BOT_TIMEOUT_MINUTES: int = 3
 
 
 settings = Settings()
