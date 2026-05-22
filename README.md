@@ -12,7 +12,7 @@ Este serviço recebe webhooks do Kommo, identifica o tipo de evento e:
 - pausa resposta automática quando humano interno ou SalesBot assume;
 - retoma automaticamente após timeout configurável;
 - registra histórico para contexto de conversa;
-- aplica ações no Kommo (nota, tag, tarefa).
+- aplica ações no Kommo (nota, tag, tarefa e mudança de etapa configurada).
 
 Arquivos principais:
 
@@ -71,6 +71,7 @@ Crie um `.env` na raiz do projeto (mesmo nível do `main.py`) com base no exempl
 KOMMO_SUBDOMAIN=seu_subdominio
 KOMMO_API_TOKEN=seu_token_kommo
 KOMMO_BOT_USER_ID=11783975
+KOMMO_STAGE_MAP={"Aguardando Horários": 12345678, "Consulta Confirmada": 23456789}
 
 # IA
 AI_PROVIDER=openai
@@ -98,6 +99,7 @@ BOT_TIMEOUT_MINUTES=3
 - `KOMMO_SUBDOMAIN`: subdomínio da conta Kommo (sem `https://` e sem `.kommo.com`).
 - `KOMMO_API_TOKEN`: token bearer para API v4 do Kommo.
 - `KOMMO_BOT_USER_ID`: ID do SalesBot para detectar mensagens automáticas.
+- `KOMMO_STAGE_MAP`: JSON opcional que mapeia o nome de etapa retornado pela IA para o `status_id` numérico do Kommo.
 - `AI_PROVIDER`: `openai` ou `anthropic`.
 - `OPENAI_API_KEY` / `ANTHROPIC_API_KEY`: chave do provedor selecionado.
 - `OPENAI_MODEL` / `ANTHROPIC_MODEL`: modelo usado para resposta.
@@ -229,6 +231,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --workers 1
 - Monte `.env` via secrets/env vars da plataforma.
 - Exponha a porta `8000`.
 - Configure health check via `/health`.
+- Configure `KOMMO_STAGE_MAP` no ambiente do deploy se a IA puder mover leads entre etapas.
 
 > Este repositório inclui `Dockerfile` e `render.yaml` prontos para deploy no Render.
 
@@ -290,6 +293,6 @@ python -m pytest -q
 ## 11) Melhorias futuras sugeridas
 
 - Adicionar testes para webhook/endpoints (`TestClient`).
-- Adicionar `Dockerfile` e `docker-compose` oficial.
+- Adicionar `docker-compose` oficial.
 - Implementar métricas (latência, taxa de erro, intents).
 - Persistir deduplicação em cache distribuído (para múltiplas réplicas).

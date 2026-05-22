@@ -148,9 +148,7 @@ async def _handle_status_change(data: dict) -> dict:
         return {"status": "ignored"}
     new_status = data.get("leads[status][0][status_id]", "")
     logger.info("Lead %s status → %s", lead_id, new_status)
-    # If you know the "Agendado" stage ID, add it here:
-    # if new_status == settings.KOMMO_SCHEDULED_STAGE_ID:
-    #     await set_lead_state(lead_id, "active")
+    # Stage transitions are currently driven by AI actions through KOMMO_STAGE_MAP.
     return {"status": "ok", "event": "status_change"}
 
 
