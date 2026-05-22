@@ -1,5 +1,5 @@
 # Base de Conhecimento — Clínica Qara
-# Extraída de 60.077 mensagens reais (dez/2025 – mai/2026)
+# Atualizada com base em 4.985 mensagens reais de abril/2026
 
 ## SOBRE A CLÍNICA
 
@@ -63,8 +63,9 @@ Basta entrar em contato pelo WhatsApp. Verificamos os horários disponíveis e r
 ### O retorno é incluso?
 Depende do médico:
 - **Dr. Miguel Ceccarelli:** retorno em até 30 dias INCLUSO no valor da consulta
-- **Dr. Diego Galvez:** retorno pós-cirurgia incluso (prazo definido pelo médico)
-- **Dra. Diana e Dra. Manuela:** retorno é cobrado separadamente (informar que a equipe confirma o valor)
+- **Dr. Diego Galvez:** retorno pós-cirurgia incluso (prazo definido pelo médico na consulta)
+- **Dra. Diana Stohmann:** retorno cobrado separadamente (equipe confirma valor)
+- **Dra. Manuela Pedretti Cabral:** retorno cobrado separadamente (equipe confirma valor)
 
 ---
 
@@ -78,6 +79,31 @@ Depende do médico:
 
 ### Em que situações é indicada?
 Teleconsulta é indicada para consultas de rotina, dúvidas gerais, acompanhamento e segunda opinião. Para procedimentos cirúrgicos e biópsia é necessário presencial.
+
+---
+
+## DOENÇAS DAS UNHAS — Dr. Miguel Ceccarelli ⭐ (mais procurado)
+
+### O que é tratado?
+Micose das unhas (onicomicose), inflamações periungueais (paroníquia), distrofias, unhas encravadas, manchas e alterações estruturais. Avaliação completa por dermatoscopia.
+
+### Como é a consulta?
+Consulta de 1 hora incluindo avaliação da pele e unhas por dermatoscopia para diagnóstico, tratamento e conduta. Inclui tratamento com corticoides injetáveis nas unhas, se necessário.
+
+### Retorno incluso?
+Sim, retorno em até 30 dias incluído no valor.
+
+### Valores
+- R$ 650 — RJ (presencial em Copacabana ou Barra) e teleconsulta
+- R$ 800 — SP (presencial em Itaim Bibi)
+
+### Horários
+- Copacabana: Segunda 14h–20h | Terça 10h–20h | Sexta 9h–13h
+- Barra da Tijuca: Sexta 14h–18h
+- Itaim Bibi (SP): Sexta 18h–21h | Sábado 8h–13h
+
+### Atende em SP?
+Sim! Dr. Miguel atende em São Paulo (Itaim Bibi): Sextas 18h–21h e Sábados 8h–13h. Valor: R$ 800.
 
 ---
 
@@ -98,23 +124,11 @@ Remoções simples: 5–10 dias. Cirurgias mais complexas: até 30 dias. O médi
 ### Laudo ou foto da lesão
 Se o paciente tiver laudo ou foto anterior da lesão, é recomendado encaminhar antes da consulta para avaliação prévia.
 
----
+### Valores
+- R$ 450 — presencial (Copacabana) e teleconsulta
 
-## DOENÇAS DAS UNHAS — Dr. Miguel Ceccarelli
-
-### O que é tratado?
-Micose das unhas (onicomicose), inflamações periungueais (paroníquia), distrofias, unhas encravadas, manchas e alterações estruturais. Avaliação completa por dermatoscopia.
-
-### Como é a consulta?
-Consulta de 1 hora incluindo avaliação da pele e unhas por dermatoscopia para diagnóstico, tratamento e conduta. Inclui tratamento com corticoides injetáveis nas unhas, se necessário.
-
-### Retorno incluso?
-Sim, retorno em até 30 dias incluído no valor.
-
-### Atende em SP?
-Sim! Dr. Miguel atende em São Paulo (Itaim Bibi):
-- Sextas: 18h–21h | Sábados: 8h–13h
-- Valor: R$ 800 (presencial SP) | R$ 650 (RJ presencial e teleconsulta)
+### Horários — Copacabana
+- Segunda 14h–19h | Quarta 14h–19h | Quinta 10h–19h
 
 ---
 
@@ -129,9 +143,15 @@ Por tricoscopia (exame com equipamento de magnificação). Pode ser necessário 
 ### Faz transplante capilar?
 Sim. O planejamento e orçamento são feitos na consulta de avaliação.
 
+### Valores
+- R$ 550 — presencial e teleconsulta
+
+### Horários — Copacabana
+- Terça 10h–20h
+
 ---
 
-## PSORÍASE, DERMATITE ATÓPICA E HIDRADENITE — Dra. Manuela Pedretti Cabral
+## PSORÍASE, DERMATITE ATÓPICA, HIDRADENITE E DERMATOLOGIA INFANTIL — Dra. Manuela Pedretti Cabral
 
 ### O que é dermatite atópica?
 Doença inflamatória crônica da pele que causa coceira intensa, ressecamento e vermelhidão. Comum em crianças mas pode persistir na vida adulta. A Dra. Manuela é especialista e atende crianças e adultos.
@@ -141,6 +161,21 @@ Doença autoimune crônica com placas avermelhadas e escamas brancas (joelhos, c
 
 ### O que é hidradenite supurativa?
 Doença inflamatória crônica das glândulas sudoríparas, com nódulos e abscessos dolorosos em axilas, virilha e coxas. Requer acompanhamento especializado.
+
+### Atende crianças?
+Sim. A Dra. Manuela atende dermatologia infantil, incluindo dermatite atópica, psoríase e outras doenças de pele em crianças.
+
+### Valores
+- R$ 550 — presencial e teleconsulta
+
+### Horários — Copacabana
+- Quarta 14h–19h
+
+---
+
+## ESTÉTICA DERMATOLÓGICA
+
+A Clínica Qara oferece procedimentos estéticos dermatológicos. Para botox, preenchimento, laser, peeling e outros procedimentos estéticos, a equipe confirma disponibilidade, médico responsável e valores diretamente com o paciente. Criar task para humano nesses casos.
 
 ---
 
@@ -160,14 +195,26 @@ Os médicos seguem o calendário normal. Para verificar disponibilidade em datas
 ### Posso enviar foto da lesão antes?
 Sim! Encaminhar foto ou laudo anterior ajuda o médico a se preparar melhor para a consulta.
 
-### Atende crianças?
-Sim. Dra. Manuela Pedretti Cabral atende crianças com doenças de pele (dermatite atópica, psoríase e outras).
-
 ### Sinal que foi removido e voltou
 Recomendamos avaliação com Dr. Diego Galvez. Trazer laudo ou foto da remoção anterior, se disponível.
 
-### Posso pagar em 2x?
+### Posso pagar em 2x, 3x, 6x?
 Sim, cartão de crédito em até 6x sem juros.
 
 ### Como reservar vaga de estacionamento?
 Informar placa e modelo do carro com antecedência. Não disponível para motos.
+
+### Atende crianças?
+Sim. Dra. Manuela Pedretti Cabral atende dermatologia infantil (dermatite atópica, psoríase e outras doenças de pele em crianças).
+
+### Vim do Instagram / fui indicado
+Ótimo! Registramos a origem do contato no cadastro. Pode me dizer quem indicou ou de qual anúncio veio?
+
+### Qual médico para queda de cabelo?
+Dra. Diana Stohmann, nossa especialista em tricologia (terças em Copacabana).
+
+### Qual médico para micose nas unhas?
+Dr. Miguel Ceccarelli, especialista em doenças das unhas (segunda, terça e sexta em Copacabana; sexta e sábado em SP).
+
+### Qual médico para pinta/sinal/cisto?
+Dr. Diego Galvez, especialista em cirurgia dermatológica (segunda, quarta e quinta em Copacabana).
